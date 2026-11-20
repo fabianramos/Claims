@@ -1,0 +1,1 @@
+"""Class action settlement aggregator."""
