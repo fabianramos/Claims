@@ -26,6 +26,8 @@ def money_values(text: str) -> list[float]:
 def parse_payout(text: str) -> tuple[float | None, float | None]:
     """(min, max) per-person dollar figures in a payout string; (None, None) if none."""
     vals = [v for v in money_values(text) if 0 < v <= PER_PERSON_CAP]
+    if vals and max(vals) < 10 and re.search(r"per (share|unit|option)", text or "", re.I):
+        return None, None  # securities: total depends on how many shares you held
     if not vals:
         return None, None
     return min(vals), max(vals)

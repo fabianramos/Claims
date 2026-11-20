@@ -12,6 +12,7 @@ def test_payout_ranges():
     assert parse_payout("$375 – $4,500") == (375, 4500)
     assert parse_payout("Varies") == (None, None)
     assert parse_payout("$229.33 per share") == (229.33, 229.33)
+    assert parse_payout("$3.01 per share") == (None, None)
     # fund totals are not per-person payouts
     assert parse_payout("$2,000 to $750,000") == (2000, 2000)
 
