@@ -1,0 +1,279 @@
+<title>Settlement Finder</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap">
+<style>
+/* Layout: phone-first single column; sticky search/filter header, fixed bottom tab bar, cards that expand in place. */
+:root {
+  --bg: #f3f5f2; --surface: #ffffff; --ink: #14201b; --muted: #5a6862; --line: #dde3df;
+  --accent: #0f6b4f; --accent-ink: #ffffff; --accent-soft: #e1f0ea;
+  --amber: #8a5300; --amber-bg: #fbeed3; --red: #b3261e; --red-bg: #fbe3e1; --chip: #edf1ee;
+  --display: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --body: "Inter", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1412; --surface: #161e1b; --ink: #e6ede9; --muted: #95a59e; --line: #26312d;
+    --accent: #4cc496; --accent-ink: #062018; --accent-soft: #15362a;
+    --amber: #f2b552; --amber-bg: #3a2a0d; --red: #ff8c84; --red-bg: #3c1613; --chip: #1f2925;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1412; --surface: #161e1b; --ink: #e6ede9; --muted: #95a59e; --line: #26312d;
+  --accent: #4cc496; --accent-ink: #062018; --accent-soft: #15362a;
+  --amber: #f2b552; --amber-bg: #3a2a0d; --red: #ff8c84; --red-bg: #3c1613; --chip: #1f2925;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 15px/1.45 var(--body); -webkit-text-size-adjust: 100%; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 760px; margin: 0 auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+header.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 14px 10px; border-bottom: 1px solid var(--line); }
+h1 { font: 700 22px/1.1 var(--display); margin: 0; letter-spacing: -.01em; }
+.row { display: flex; gap: 8px; align-items: center; }
+.titlebar { justify-content: space-between; margin-bottom: 10px; }
+.updated { font-size: 12px; color: var(--muted); text-align: right; }
+.search { display: flex; gap: 8px; }
+.search input, .search select { min-width: 0; height: 42px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: inherit; padding: 0 12px; }
+.search input { flex: 1; }
+.search select { flex: 0 0 auto; max-width: 42%; }
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-block: 10px 2px; scrollbar-width: none; }
+.chips::-webkit-scrollbar { display: none; }
+.fchip { flex: 0 0 auto; height: 34px; padding: 0 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 500 13.5px var(--body); cursor: pointer; }
+.fchip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.fchip:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.summary { font-size: 13px; color: var(--muted); padding-block: 12px 4px; display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.summary b { color: var(--ink); font-variant-numeric: tabular-nums; }
+main { padding-bottom: calc(84px + env(safe-area-inset-bottom, 0px)); }
+.list { display: grid; gap: 10px; padding-block: 8px 16px; }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; }
+.card.not { opacity: .5; }
+.card summary { list-style: none; cursor: pointer; padding: 14px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 12px; }
+.card summary::-webkit-details-marker { display: none; }
+.name { font: 600 15.5px/1.3 var(--body); margin: 0; text-wrap: balance; }
+.amt { text-align: right; font: 700 20px/1.1 var(--display); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.amt small { display: block; font: 500 11.5px var(--body); color: var(--muted); margin-top: 3px; }
+.amt.none { color: var(--muted); font-size: 15px; }
+.meta { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 6px; font-size: 12.5px; }
+.tag { background: var(--chip); border-radius: 999px; padding: 3px 9px; font-variant-numeric: tabular-nums; }
+.tag.ok { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.tag.soon { background: var(--amber-bg); color: var(--amber); font-weight: 600; }
+.tag.urgent { background: var(--red-bg); color: var(--red); font-weight: 600; }
+.tag.star { background: var(--accent); color: var(--accent-ink); }
+.body { padding: 0 14px 14px; display: grid; gap: 10px; }
+.desc { margin: 0; color: var(--muted); font-size: 14px; }
+.ptext { font-size: 13px; }
+.ptext span { color: var(--muted); }
+.claim { display: flex; align-items: center; justify-content: center; height: 44px; border-radius: 10px; background: var(--accent); color: var(--accent-ink); font-weight: 600; text-decoration: none; }
+.srcs { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 13px; }
+.srcs a { color: var(--accent); }
+.acts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px; }
+.acts button { height: 40px; border-radius: 10px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); font: 500 13.5px var(--body); cursor: pointer; }
+.acts button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.empty { text-align: center; color: var(--muted); padding: 48px 16px; }
+nav.tabs { position: fixed; left: 0; right: 0; bottom: 0; z-index: 6; background: var(--surface); border-top: 1px solid var(--line);
+  padding-bottom: env(safe-area-inset-bottom, 0px); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+nav.tabs .inner { max-width: 760px; margin: 0 auto; display: grid; grid-template-columns: repeat(3, 1fr); }
+nav.tabs button { height: 60px; border: 0; background: none; color: var(--muted); font: 600 13px var(--body); cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; }
+nav.tabs button b { font: 700 17px var(--display); font-variant-numeric: tabular-nums; }
+nav.tabs button[aria-pressed="true"] { color: var(--accent); }
+.note { font-size: 12px; color: var(--muted); padding-block: 4px 16px; }
+.sync { font-size: 11.5px; color: var(--muted); }
+@media (prefers-reduced-motion: no-preference) { .card { transition: opacity .15s; } }
+</style>
+
+<header class="top">
+  <div class="wrap">
+    <div class="row titlebar">
+      <h1>Settlement Finder</h1>
+      <div class="updated"><div id="updated">Loading…</div><div class="sync" id="sync"></div></div>
+    </div>
+    <div class="search">
+      <input id="q" type="search" placeholder="Search company, product, state" aria-label="Search" autocomplete="off">
+      <select id="sort" aria-label="Sort by">
+        <option value="max">Top payout</option>
+        <option value="min">No-receipt payout</option>
+        <option value="deadline">Deadline</option>
+        <option value="fund">Fund size</option>
+      </select>
+    </div>
+    <div class="chips" role="group" aria-label="Filters">
+      <button class="fchip" id="f-noproof" aria-pressed="false">No proof needed</button>
+      <button class="fchip" id="f-amt" aria-pressed="false">Has $ amount</button>
+      <button class="fchip" id="f-soon" aria-pressed="false">Ends in 2 weeks</button>
+      <button class="fchip" id="f-hide" aria-pressed="true">Hide “Not me”</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="summary" id="summary"></div>
+  <div class="list" id="list"><div class="empty">Loading open settlements…</div></div>
+  <p class="note">Amounts are what the listing sites publish. “Up to” amounts usually need receipts or documented losses. Only file for settlements you qualify for, through the official settlement site.</p>
+</main>
+
+<nav class="tabs" aria-label="Views">
+  <div class="inner">
+    <button data-view="all" aria-pressed="true"><b id="n-all">0</b>All open</button>
+    <button data-view="mine" aria-pressed="false"><b id="n-mine">0</b>Shortlist</button>
+    <button data-view="filed" aria-pressed="false"><b id="n-filed">0</b>Filed</button>
+  </div>
+</nav>
+
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+const fmt = v => v == null ? "" : "$" + (v >= 1e6 ? (v / 1e6).toFixed(v >= 1e7 ? 0 : 1) + "M" : v.toLocaleString(undefined, {maximumFractionDigits: v < 100 ? 2 : 0}));
+const today = new Date(); today.setHours(0, 0, 0, 0);
+const daysLeft = d => d ? Math.round((new Date(d + "T00:00:00") - today) / 864e5) : null;
+const fmtDate = d => new Date(d + "T00:00:00").toLocaleDateString(undefined, {month: "short", day: "numeric"});
+
+let DATA = {settlements: [], sources: {}};
+let view = "all";
+const filters = {noproof: false, amt: false, soon: false, hide: true};
+const open = new Set();
+
+// Marks: saved in this browser right away, and synced to your account when the page can reach it.
+const LKEY = "claims-marks-v1";
+let marks = {};
+try { marks = JSON.parse(localStorage.getItem(LKEY) || "{}"); } catch (e) {}
+let remoteRef = null, writing = false, pending = false;
+const idOf = s => s.official_url || Object.values(s.sources)[0] || s.name;
+
+function saveMarks() {
+  try { localStorage.setItem(LKEY, JSON.stringify(marks)); } catch (e) {}
+  if (!remoteRef) return;
+  if (writing) { pending = true; return; }
+  writing = true;
+  remoteRef.set({marks: JSON.stringify(marks), updated: Date.now()})
+    .then(() => { $("sync").textContent = "Synced to your account"; })
+    .catch(() => { $("sync").textContent = "Saved on this device"; })
+    .finally(() => { writing = false; if (pending) { pending = false; saveMarks(); } });
+}
+
+async function connectSync() {
+  if (!window.claude?.use) { $("sync").textContent = "Saved on this device"; return; }
+  const [db, user] = await Promise.all([claude.use("db"), claude.use("user")]);
+  const uid = user ? await user.id() : null;
+  if (!db || !uid) { $("sync").textContent = "Saved on this device"; return; }
+  remoteRef = db.collection("data/users/" + uid).doc("marks");
+  const timer = setTimeout(() => { $("sync").textContent = "Saved on this device"; }, 10000);
+  remoteRef.onSnapshot(snap => {
+    clearTimeout(timer);
+    let remote = {};
+    try { remote = snap.exists ? JSON.parse(snap.data().marks || "{}") : {}; } catch (e) {}
+    const merged = {...marks, ...remote};
+    const changed = JSON.stringify(merged) !== JSON.stringify(marks);
+    marks = merged;
+    try { localStorage.setItem(LKEY, JSON.stringify(marks)); } catch (e) {}
+    $("sync").textContent = "Synced to your account";
+    if (!snap.exists && Object.keys(marks).length) saveMarks();
+    if (changed) render();
+  }, () => { clearTimeout(timer); $("sync").textContent = "Saved on this device"; });
+}
+
+function visible() {
+  const q = $("q").value.trim().toLowerCase();
+  return DATA.settlements.filter(s => {
+    const m = marks[idOf(s)] || {};
+    if (view === "mine" && !m.mine) return false;
+    if (view === "filed" && !m.filed) return false;
+    if (view === "all" && filters.hide && m.not) return false;
+    if (filters.noproof && s.proof_required !== false) return false;
+    if (filters.amt && s.payout_max == null) return false;
+    if (filters.soon) { const d = daysLeft(s.deadline); if (d == null || d > 14) return false; }
+    if (q && !(s.name + " " + s.description + " " + s.category + " " + s.payout_text).toLowerCase().includes(q)) return false;
+    return true;
+  });
+}
+
+function render() {
+  const sort = $("sort").value;
+  const by = {
+    max: (a, b) => (b.payout_max ?? -1) - (a.payout_max ?? -1) || (a.proof_required === false ? -1 : 0) - (b.proof_required === false ? -1 : 0),
+    min: (a, b) => (b.payout_min ?? -1) - (a.payout_min ?? -1),
+    deadline: (a, b) => (a.deadline || "9999").localeCompare(b.deadline || "9999"),
+    fund: (a, b) => (b.fund_size ?? -1) - (a.fund_size ?? -1),
+  }[sort];
+  const rows = visible().sort((a, b) => by(a, b) || (a.deadline || "9999").localeCompare(b.deadline || "9999"));
+
+  const all = DATA.settlements;
+  const mine = all.filter(s => (marks[idOf(s)] || {}).mine);
+  const filed = all.filter(s => (marks[idOf(s)] || {}).filed);
+  $("n-all").textContent = all.filter(s => !(marks[idOf(s)] || {}).not).length;
+  $("n-mine").textContent = mine.length;
+  $("n-filed").textContent = filed.length;
+  const sum = arr => arr.reduce((t, s) => t + (s.payout_min || 0), 0);
+  const sumMax = arr => arr.reduce((t, s) => t + (s.payout_max || 0), 0);
+  let html = `<span><b>${rows.length}</b> shown</span>`;
+  if (view === "filed" && filed.length) html += `<span>Filed: at least <b>${fmt(sum(filed))}</b>, up to <b>${fmt(sumMax(filed))}</b></span>`;
+  else if (view === "mine" && mine.length) html += `<span>Shortlist worth at least <b>${fmt(sum(mine))}</b>, up to <b>${fmt(sumMax(mine))}</b></span>`;
+  else html += `<span><b>${all.filter(s => s.proof_required === false).length}</b> need no proof</span>`;
+  $("summary").innerHTML = html;
+
+  if (!rows.length) {
+    $("list").innerHTML = `<div class="empty">${view === "mine" ? "Tap ★ Shortlist on any settlement you qualify for and it shows up here."
+      : view === "filed" ? "Tap ✓ Filed after you submit a claim to keep track of it here." : "Nothing matches these filters."}</div>`;
+    return;
+  }
+  $("list").innerHTML = rows.map(s => {
+    const id = idOf(s), m = marks[id] || {}, d = daysLeft(s.deadline);
+    const dl = s.deadline
+      ? `<span class="tag ${d <= 7 ? "urgent" : d <= 21 ? "soon" : ""}">${d === 0 ? "Ends today" : d === 1 ? "Ends tomorrow" : d + " days left"} · ${fmtDate(s.deadline)}</span>`
+      : `<span class="tag">Deadline varies</span>`;
+    const proof = s.proof_required === false ? `<span class="tag ok">No proof</span>` : s.proof_required === true ? `<span class="tag">Proof required</span>` : "";
+    const amt = s.payout_max == null ? `<div class="amt none">Varies</div>`
+      : `<div class="amt">${fmt(s.payout_max)}${s.payout_min !== s.payout_max ? `<small>from ${fmt(s.payout_min)}</small>` : "<small>&nbsp;</small>"}</div>`;
+    const claimUrl = s.official_url || Object.values(s.sources)[0];
+    return `<details class="card${m.not ? " not" : ""}" data-id="${esc(id)}"${open.has(id) ? " open" : ""}>
+      <summary>
+        <p class="name">${esc(s.name)}</p>${amt}
+        <div class="meta">${dl}${proof}${m.filed ? `<span class="tag star">✓ Filed</span>` : m.mine ? `<span class="tag star">★ Shortlist</span>` : ""}${s.category ? `<span class="tag">${esc(s.category)}</span>` : ""}</div>
+      </summary>
+      <div class="body">
+        ${s.description ? `<p class="desc">${esc(s.description)}</p>` : ""}
+        ${s.payout_text ? `<div class="ptext"><span>Payout:</span> ${esc(s.payout_text)}${s.fund_size ? ` <span>· total fund ${fmt(s.fund_size)}</span>` : ""}</div>` : ""}
+        <a class="claim" href="${esc(claimUrl)}" target="_blank" rel="noopener">${s.official_url ? "Open official claim site ↗" : "View settlement details ↗"}</a>
+        <div class="srcs">${Object.entries(s.sources).map(([n, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(n)}</a>`).join("")}</div>
+        <div class="acts">
+          <button data-k="mine" aria-pressed="${!!m.mine}">★ Shortlist</button>
+          <button data-k="filed" aria-pressed="${!!m.filed}">✓ Filed</button>
+          <button data-k="not" aria-pressed="${!!m.not}">Not me</button>
+        </div>
+      </div>
+    </details>`;
+  }).join("");
+}
+
+$("list").addEventListener("toggle", e => {
+  const card = e.target.closest?.("details.card"); if (!card) return;
+  card.open ? open.add(card.dataset.id) : open.delete(card.dataset.id);
+}, true);
+$("list").addEventListener("click", e => {
+  const b = e.target.closest(".acts button"); if (!b) return;
+  const id = b.closest("details").dataset.id, k = b.dataset.k;
+  const m = marks[id] = {...(marks[id] || {})};
+  m[k] = !m[k];
+  if (k === "not" && m.not) m.mine = false;
+  if (k === "filed" && m.filed) m.not = false;
+  open.add(id);
+  saveMarks(); render();
+});
+document.querySelectorAll("nav.tabs button").forEach(b => b.addEventListener("click", () => {
+  view = b.dataset.view;
+  document.querySelectorAll("nav.tabs button").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
+  render(); window.scrollTo({top: 0});
+}));
+[["f-noproof", "noproof"], ["f-amt", "amt"], ["f-soon", "soon"], ["f-hide", "hide"]].forEach(([el, k]) =>
+  $(el).addEventListener("click", () => { filters[k] = !filters[k]; $(el).setAttribute("aria-pressed", String(filters[k])); render(); }));
+$("q").addEventListener("input", render);
+$("sort").addEventListener("change", render);
+
+fetch("settlements.json").then(r => r.json()).then(d => {
+  DATA = d;
+  $("updated").textContent = "Updated " + d.generated.slice(0, 10);
+  render();
+}).catch(() => { $("list").innerHTML = `<div class="empty">Couldn’t load the settlement list. Pull down to reload the page.</div>`; });
+connectSync();
+</script>

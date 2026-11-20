@@ -23,6 +23,14 @@ Open **`docs/index.html`** in a browser. It works offline: the data is built int
 
 The same data is in `docs/settlements.csv` (spreadsheet) and `docs/settlements.json`.
 
+## Phone app
+
+`app/index.html` is the phone-first version, published as a private claude.ai page:
+https://claude.ai/artifact/TnMXy5fUfWZ982LBdq7wA9 (add it to your home screen). It loads
+`settlements.json` published next to it, and syncs Shortlist / Filed / Not me marks to your account
+so phone and computer match. The published list is a snapshot: ask Claude to republish it with a
+fresh `docs/settlements.json` to update it.
+
 ## Refresh the list
 
 ```
