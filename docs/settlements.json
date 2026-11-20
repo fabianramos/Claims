@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-20 01:30 UTC",
+ "generated": "2026-11-20 19:06 UTC",
  "sources": {
   "classaction.org": 202,
-  "claimdepot.com": 212,
+  "claimdepot.com": 209,
   "theclassactionlawsuit.com": 4
  },
  "settlements": [
@@ -1025,6 +1025,23 @@
    ]
   },
   {
+   "name": "Howard and Co. Data Breach Class Action Settlement",
+   "deadline": "2026-12-28",
+   "payout_text": "Up to $3,500",
+   "payout_min": 3500.0,
+   "payout_max": 3500.0,
+   "fund_size": null,
+   "proof_required": null,
+   "description": "Individuals affected by the Howard and Co. data breach may be eligible to claim up to $3,500 from a class action settlement.",
+   "category": "Data Breach",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/howard-and-co-data-incident"
+   },
+   "topic": "privacy",
+   "states": []
+  },
+  {
    "name": "United Food and Commercial Workers Union - Data Breach",
    "deadline": "2026-12-14",
    "payout_text": "$50 - $3,075",
@@ -1143,23 +1160,6 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#academy-mortgage-corporation-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/academy-mortgage-settlement"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
-   "name": "American Vision Partners $1.75M Data Breach Settlement",
-   "deadline": "2026-11-30",
-   "payout_text": "Up to $3,000 for documented losses or a pro rata cash payment",
-   "payout_min": 3000.0,
-   "payout_max": 3000.0,
-   "fund_size": 1750000.0,
-   "proof_required": null,
-   "description": "Individuals affected by the American Vision Partners data breach may be eligible to claim a cash payment from a class action settlement.",
-   "category": "Data Breach",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/american-vision-settlement"
    },
    "topic": "privacy",
    "states": []
@@ -2236,17 +2236,16 @@
   {
    "name": "Prime Healthcare - Data Privacy",
    "deadline": "2026-12-21",
-   "payout_text": "$20 / $20 and/or one year of CyEx Medical Shield Pro",
+   "payout_text": "$20",
    "payout_min": 20.0,
    "payout_max": 20.0,
-   "fund_size": 2000000.0,
+   "fund_size": null,
    "proof_required": false,
    "description": "You may be able to claim a piece of this settlement if you were a patient of Prime Healthcare and accessed one of Prime Healthcare's websites between November 1, 2019 and October 18, 2023.",
-   "category": "Privacy",
+   "category": "",
    "official_url": "https://phsettlement.com/",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#prime-healthcare-data-privacy",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/ph-settlement"
+    "classaction.org": "https://www.classaction.org/settlements#prime-healthcare-data-privacy"
    },
    "topic": "privacy",
    "states": []
@@ -2270,6 +2269,23 @@
    "states": [
     "Missouri"
    ]
+  },
+  {
+   "name": "Prime Healthcare $2M Patient Privacy Class Action Settlement",
+   "deadline": "2026-12-28",
+   "payout_text": "$20 and/or one year of CyEx Medical Shield Pro",
+   "payout_min": 20.0,
+   "payout_max": 20.0,
+   "fund_size": 2000000.0,
+   "proof_required": null,
+   "description": "Prime Healthcare patients who accessed the company's websites may be eligible to claim $20 and/or free identity protection from a class action settlement.",
+   "category": "Privacy",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/ph-settlement"
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Washington Nationals - Discount Tickets",
@@ -2504,46 +2520,11 @@
    "states": []
   },
   {
-   "name": "National Instruments $28M Securities Class Action Settlement",
-   "deadline": "2027-01-14",
-   "payout_text": "$3.01 per share (estimated)",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 28000000.0,
-   "proof_required": null,
-   "description": "Investors who sold National Instruments stock during parts of August and September 2022 may be eligible to claim a cash payment from a class action settlement.",
-   "category": "Securities",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/national-instruments-securities-class-action"
-   },
-   "topic": "investing",
-   "states": []
-  },
-  {
-   "name": "Twitter Acquisition - Securities",
-   "deadline": "2026-11-24",
-   "payout_text": "$1.65 per share (estimated)",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 85000000.0,
-   "proof_required": true,
-   "description": "If you sold the publicly traded stock or call options, or purchased the put options, of Twitter, Inc. between May 13, 2022 and October 4, 2022, you may be included in this settlement.",
-   "category": "Securities",
-   "official_url": "https://twitteracquisitionlitigation.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#twitter-acquisition-securities",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/twitter-acquisition-litigation"
-   },
-   "topic": "investing",
-   "states": []
-  },
-  {
    "name": "Napco $20 Million Securities Class Action Settlement",
    "deadline": "2026-12-28",
    "payout_text": "$0.11 per security (estimated) / $1.23 per share before deductions",
-   "payout_min": null,
-   "payout_max": null,
+   "payout_min": 0.11,
+   "payout_max": 0.11,
    "fund_size": 13000000.0,
    "proof_required": null,
    "description": "Investors who bought Marqeta stock or options between Feb. 28 and Nov. 4, 2024, may be eligible to claim a cash payment from a class action settlement.",
@@ -2551,91 +2532,6 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/napco-securities-settlement"
-   },
-   "topic": "investing",
-   "states": []
-  },
-  {
-   "name": "Edwards Lifesciences $39M Securities Class Action Settlement",
-   "deadline": "2026-12-02",
-   "payout_text": "$0.66 per share before deductions (estimated)",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 39000000.0,
-   "proof_required": null,
-   "description": "Investors who bought Edwards Lifesciences stock between Feb. 6 and July 24, 2024, may be eligible to claim a cash payment from a class action settlement.",
-   "category": "Securities",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/edwards-lifesciences-securities-litigation"
-   },
-   "topic": "investing",
-   "states": []
-  },
-  {
-   "name": "Webtoon $10 Million Securities Class Action Settlement",
-   "deadline": "2026-12-14",
-   "payout_text": "Approximately $0.45 per share (before deductions)",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 10000000.0,
-   "proof_required": null,
-   "description": "Investors who bought Webtoon stock in the June 2024 IPO or soon after may be eligible to claim a cash payment from a class action settlement.",
-   "category": "Securities",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/webtoon-securities-settlement"
-   },
-   "topic": "investing",
-   "states": []
-  },
-  {
-   "name": "Anadarko $114.5 Million Securities Class Action Settlement",
-   "deadline": "2027-01-19",
-   "payout_text": "$0.41 per share before deductions",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 18000000.0,
-   "proof_required": null,
-   "description": "Investors who bought or sold Beauty Health securities between May 10, 2022, and Nov. 13, 2023, may be eligible to claim cash from a class action settlement.",
-   "category": "Securities",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/anadarko-securities-settlement"
-   },
-   "topic": "investing",
-   "states": []
-  },
-  {
-   "name": "Kornit Digital $19.5M Securities Class Action Settlement",
-   "deadline": "2026-12-10",
-   "payout_text": "$0.40 per share (estimated)",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 19500000.0,
-   "proof_required": null,
-   "description": "Investors who bought Kornit Digital ordinary shares between Feb. 17, 2021, and July 5, 2022, may be eligible for a cash payment from a $19.5 million settlement.",
-   "category": "Securities",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/kornit-securities-litigation"
-   },
-   "topic": "investing",
-   "states": []
-  },
-  {
-   "name": "Hertz Global Holdings $10 Million Securities Settlement",
-   "deadline": "2027-01-08",
-   "payout_text": "$0.04 per share (estimated)",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 10000000.0,
-   "proof_required": null,
-   "description": "Investors who purchased or acquired Hertz common stock between Jan. 6, 2023, and April 24, 2024, may be eligible for a payment from a class action settlement.",
-   "category": "Securities",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/hertz-securities-settlement"
    },
    "topic": "investing",
    "states": []
@@ -3458,6 +3354,23 @@
    ]
   },
   {
+   "name": "Edwards Lifesciences $39M Securities Class Action Settlement",
+   "deadline": "2026-12-02",
+   "payout_text": "$0.66 per share before deductions (estimated)",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 39000000.0,
+   "proof_required": null,
+   "description": "Investors who bought Edwards Lifesciences stock between Feb. 6 and July 24, 2024, may be eligible to claim a cash payment from a class action settlement.",
+   "category": "Securities",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/edwards-lifesciences-securities-litigation"
+   },
+   "topic": "investing",
+   "states": []
+  },
+  {
    "name": "Long Beach Community College District - Faculty Wages",
    "deadline": "2026-12-03",
    "payout_text": "Varies",
@@ -3545,6 +3458,23 @@
    "states": []
   },
   {
+   "name": "Kornit Digital $19.5M Securities Class Action Settlement",
+   "deadline": "2026-12-10",
+   "payout_text": "$0.40 per share (estimated)",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 19500000.0,
+   "proof_required": null,
+   "description": "Investors who bought Kornit Digital ordinary shares between Feb. 17, 2021, and July 5, 2022, may be eligible for a cash payment from a $19.5 million settlement.",
+   "category": "Securities",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/kornit-securities-litigation"
+   },
+   "topic": "investing",
+   "states": []
+  },
+  {
    "name": "Bank of America $2M Denied Debit Card Claims Settlement",
    "deadline": "2026-12-11",
    "payout_text": "Pro rata payment",
@@ -3576,6 +3506,23 @@
     "classaction.org": "https://www.classaction.org/settlements#florence-bank-overdraft-fees"
    },
    "topic": "shopping",
+   "states": []
+  },
+  {
+   "name": "Webtoon $10 Million Securities Class Action Settlement",
+   "deadline": "2026-12-14",
+   "payout_text": "Approximately $0.45 per share (before deductions)",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 10000000.0,
+   "proof_required": null,
+   "description": "Investors who bought Webtoon stock in the June 2024 IPO or soon after may be eligible to claim a cash payment from a class action settlement.",
+   "category": "Securities",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/webtoon-securities-settlement"
+   },
+   "topic": "investing",
    "states": []
   },
   {
@@ -3789,6 +3736,23 @@
    "states": []
   },
   {
+   "name": "Hertz Global Holdings $10 Million Securities Settlement",
+   "deadline": "2027-01-08",
+   "payout_text": "$0.04 per share (estimated)",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 10000000.0,
+   "proof_required": null,
+   "description": "Investors who purchased or acquired Hertz common stock between Jan. 6, 2023, and April 24, 2024, may be eligible for a payment from a class action settlement.",
+   "category": "Securities",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/hertz-securities-settlement"
+   },
+   "topic": "investing",
+   "states": []
+  },
+  {
    "name": "Planet Labs, dMY IV Merger $11M Class Action Settlement",
    "deadline": "2027-01-09",
    "payout_text": "Varies",
@@ -3823,6 +3787,40 @@
    "states": [
     "California"
    ]
+  },
+  {
+   "name": "National Instruments $28M Securities Class Action Settlement",
+   "deadline": "2027-01-14",
+   "payout_text": "$3.01 per share (estimated)",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 28000000.0,
+   "proof_required": null,
+   "description": "Investors who sold National Instruments stock during parts of August and September 2022 may be eligible to claim a cash payment from a class action settlement.",
+   "category": "Securities",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/national-instruments-securities-class-action"
+   },
+   "topic": "investing",
+   "states": []
+  },
+  {
+   "name": "Anadarko $114.5 Million Securities Class Action Settlement",
+   "deadline": "2027-01-19",
+   "payout_text": "$0.41 per share before deductions",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 18000000.0,
+   "proof_required": null,
+   "description": "Investors who bought or sold Beauty Health securities between May 10, 2022, and Nov. 13, 2023, may be eligible to claim cash from a class action settlement.",
+   "category": "Securities",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/anadarko-securities-settlement"
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Progressive $8M Delayed PIP Claims Class Action Settlement",
@@ -4307,6 +4305,24 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/lavista-fire-settlement"
    },
    "topic": "housing",
+   "states": []
+  },
+  {
+   "name": "Twitter Acquisition - Securities",
+   "deadline": "2026-11-24",
+   "payout_text": "$1.65 per share (estimated)",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 85000000.0,
+   "proof_required": true,
+   "description": "If you sold the publicly traded stock or call options, or purchased the put options, of Twitter, Inc. between May 13, 2022 and October 4, 2022, you may be included in this settlement.",
+   "category": "Securities",
+   "official_url": "https://twitteracquisitionlitigation.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#twitter-acquisition-securities",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/twitter-acquisition-litigation"
+   },
+   "topic": "investing",
    "states": []
   },
   {
