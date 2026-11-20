@@ -59,3 +59,19 @@ def test_merge_same_case_across_sites():
 def test_merge_drops_expired():
     rows = merge([Settlement("x", "Old Co", "u", "$10", "11/01/26")], TODAY)
     assert rows == []
+
+
+def test_limited_states():
+    from claims_agg.classify import limited_states
+    assert limited_states("Six Flags - Fees (California)", "") == ["California"]
+    assert limited_states("Sentry", "Individuals in New Mexico who had a Sentry auto policy") == ["New Mexico"]
+    assert limited_states("Washington Nationals - Discount Tickets", "") == []
+    assert limited_states("iPhone - Siri", "You may be included if you bought an iPhone.") == []
+
+
+def test_topic():
+    from claims_agg.classify import topic
+    assert topic("Data Breach", "X", "") == "privacy"
+    assert topic("", "Toyota Airbag Control Unit", "") == "vehicles"
+    assert topic("", "Bank of America - Unused Vacation", "") == "jobs"
+    assert topic("", "Six Flags - Fees (California)", "") == "shopping"

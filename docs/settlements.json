@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20 01:02 UTC",
+ "generated": "2026-11-20 01:30 UTC",
  "sources": {
   "classaction.org": 202,
   "claimdepot.com": 212,
@@ -19,7 +19,9 @@
    "official_url": "https://www.ladrsurgerysettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#aetna-life-insurance-lumbar-artificial-disc-replacement"
-   }
+   },
+   "topic": "insurance",
+   "states": []
   },
   {
    "name": "Sentry Insurance $2.75M UM/UIM Claims Class Action Settlement",
@@ -34,7 +36,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/nmu-im-class-settlement"
-   }
+   },
+   "topic": "insurance",
+   "states": [
+    "New Mexico"
+   ]
   },
   {
    "name": "Kisco Senior Living - Data Breach",
@@ -50,7 +56,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#kisco-senior-living-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/kisco-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Columbia University $16.13 Million Data Breach Settlement",
@@ -65,7 +73,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/columbia-university-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Fairmont Federal Credit Union - Data Breach",
@@ -81,7 +91,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#fairmont-federal-credit-union-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/ffcu-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Laboratory Services Cooperative - Data Breach",
@@ -97,7 +109,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#laboratory-services-cooperative-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/lsc-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Branford Manor",
@@ -112,7 +126,9 @@
    "official_url": "https://www.branfordmanorsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#branford-manor"
-   }
+   },
+   "topic": "housing",
+   "states": []
   },
   {
    "name": "Ford Transit Trail",
@@ -128,7 +144,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#ford-transit-trail",
     "claimdepot.com": "https://www.claimdepot.com/settlements/ford-transit-trail-settlement"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Seattle Public Schools - Data Breach",
@@ -144,7 +162,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#seattle-public-schools-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/carruth-settlement"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Bauer Built - Data Breach",
@@ -160,7 +180,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#bauer-built-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/bauer-security-incident"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "New York School of Interior Design - Data Breach",
@@ -176,7 +198,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#new-york-school-of-interior-design-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/nys-id-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Lowe Engineers - Data Breach",
@@ -192,7 +216,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#lowe-engineers-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/lowe-data-incident"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Electronics for Imaging - Data Breach",
@@ -208,7 +234,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#electronics-for-imaging-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/efi-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Ben E. Keith Co. $1.2M Data Breach Class Action Settlement",
@@ -223,7 +251,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/bek-data-incident-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Okanogan Behavioral Healthcare Data Breach Settlement",
@@ -238,7 +268,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/okanogan-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "McLean Mortgage Corporation - Data Breach",
@@ -254,7 +286,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#mclean-mortgage-corporation-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/mclean-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "American Renal Management - Data Breach",
@@ -270,7 +304,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#american-renal-management-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/irc-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "CBIZ - Data Breach",
@@ -286,7 +322,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#cbiz-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/cbiz-data-breach-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Red Coats - Data Breach",
@@ -302,7 +340,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#red-coats-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/redcoats-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Holt Group - Data Breach",
@@ -318,7 +358,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#holt-group-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/holt-group-data-settlement"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "TRC Staffing Services - Data Breach",
@@ -334,7 +376,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#trc-staffing-services-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/trc-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "The Coffee Bean & Tea Leaf - Data Breach",
@@ -349,7 +393,9 @@
    "official_url": "https://internationalcoffeesettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#the-coffee-bean-and-tea-leaf-data-breach"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Steel Warehouse Company - Data Breach",
@@ -365,7 +411,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#steel-warehouse-company-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/steel-warehouse-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Roseland Community Hospital Association - Data Breach",
@@ -381,7 +429,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#roseland-community-hospital-association-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/roseland-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "CPAP Medical Supplies and Services - Data Breach",
@@ -397,7 +447,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#cpap-medical-supplies-and-services-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/cpap-data-incident-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Assa Abloy Entrance Systems - Job Postings (Washington)",
@@ -413,7 +465,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#nordstrom-job-postings-washington",
     "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-aa"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "Washington"
+   ]
   },
   {
    "name": "Wayne Memorial Hospital - Data Breach",
@@ -429,7 +485,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#wayne-memorial-hospital-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/wmh-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Kimco Staffing - Data Breach",
@@ -445,7 +503,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#kimco-staffing-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/kimco-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Jefferson-Blount-St. Clair Mental Health - Data Breach",
@@ -461,7 +521,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#etairos-health-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/etairos-health-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Educational Computer Systems - Data Breach",
@@ -477,7 +539,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#educational-computer-systems-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/data-settlement-ecsi"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Viapath Technologies - Data Breach",
@@ -492,7 +556,9 @@
    "official_url": "https://www.telmatedatabreachsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#viapath-technologies-data-breach"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Benworth Capital Partners - Data Breach",
@@ -508,7 +574,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#benworth-capital-partners-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/benworth-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Chimienti & Associates - Data Breach",
@@ -524,7 +592,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#chimienti-and-associates-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/chimienti-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Grayback Forestry - Data Breach",
@@ -540,7 +610,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#grayback-forestry-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/grayback-forestry-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Covenant Health - Data Breach",
@@ -555,7 +627,9 @@
    "official_url": "https://covenanthealthdatasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#covenant-health-data-breach"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "American Medical Collection Agency - Data Breach",
@@ -571,7 +645,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#american-medical-collection-agency-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/amca-data-breach-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Arcare - Data Breach",
@@ -587,7 +663,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#arcare-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/arcare-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Hampton Regional Medical Center - Data Breach",
@@ -602,7 +680,9 @@
    "official_url": "https://hrmcdatasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#hampton-regional-medical-center-data-breach"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "The Cornwell Quality Tools Company - Data Breach",
@@ -618,7 +698,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#the-cornwell-quality-tools-company-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/cqt-cyber-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Johnson Controls - Data Breach",
@@ -634,7 +716,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#johnson-controls-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/johnson-controls-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "LA County Men's Central Jail",
@@ -650,7 +734,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#la-county-mens-central-jail",
     "claimdepot.com": "https://www.claimdepot.com/settlements/la-county-mcj-mass-search-settlement"
-   }
+   },
+   "topic": "other",
+   "states": []
   },
   {
    "name": "Hampton Regional Medical Center Data Breach Settlement",
@@ -665,7 +751,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/hrmc-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Covenant Health $2M Data Breach Class Action Settlement",
@@ -680,7 +768,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/covenant-health-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Nissan - CVT Transmissions",
@@ -695,7 +785,9 @@
    "official_url": "http://www.roguepathfinderqx60cvtsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#nissan-cvt-transmissions"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Inotiv - Data Breach",
@@ -711,7 +803,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#inotiv-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/inotiv-data-breach-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Sirva Relocation - Data Breach",
@@ -727,7 +821,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#sirva-relocation-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/sirva-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Hyundai, Kia - Vehicle Theft",
@@ -744,7 +840,9 @@
     "classaction.org": "https://www.classaction.org/settlements#hyundai-kia-airbag-control-units",
     "claimdepot.com": "https://www.claimdepot.com/settlements/hk-multistate-immobilizer-settlement",
     "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/hyundai-and-kia-multistate-immobilizer-class-action-settlement/"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Baptist Health - Data Breach",
@@ -760,7 +858,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#brockton-neighborhood-health-center-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/bnh-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Jack\u2019s Family Restaurants - Data Breach",
@@ -776,7 +876,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#jacks-family-restaurants-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/jacks-data-breach-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Renkim Corporation - Data Breach",
@@ -792,7 +894,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#renkim-corporation-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/renkim-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Washington Gastroenterology - Data Breach",
@@ -808,7 +912,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#washington-gastroenterology-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/wa-gastro-data-incident-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Yuma Regional Medical Center - Data Breach",
@@ -824,7 +930,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#yuma-regional-medical-center-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/yuma-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Brandt Equities - Data Breach",
@@ -840,7 +948,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#brandt-equities-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/brandt-equities-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Vida Y Salud-Health Systems - Data Breach",
@@ -856,7 +966,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#vida-y-salud-health-systems-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/vsi-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "NC AdaptHealth - Medical Supplies",
@@ -871,7 +983,9 @@
    "official_url": "https://www.ncadapthealthsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#nc-adapthealth-medical-supplies"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Woodloch Pines - Data Breach",
@@ -887,7 +1001,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#woodloch-pines-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/woodloch-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "AdaptHealth $14.3M Improper Debt Collection Settlement",
@@ -902,7 +1018,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/nc-adapt-health-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "North Carolina"
+   ]
   },
   {
    "name": "United Food and Commercial Workers Union - Data Breach",
@@ -917,7 +1037,9 @@
    "official_url": "https://www.ufcw7datasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#united-food-and-commercial-workers-union-data-breach"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Mullinax Ford of Central Florida Data Breach Settlement",
@@ -932,7 +1054,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/mullinax-car-dealership-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "UFCW Local 7 $345,000 Data Breach Class Action Settlement",
@@ -947,7 +1071,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/ufcw-7-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Antigo Construction - Data Breach",
@@ -963,7 +1089,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#antigo-construction-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/antigo-data-breach-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Riverside Resort & Casino - Data Breach",
@@ -979,7 +1107,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#riverside-resort-and-casino-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/riverside-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Blue Ridge Rural Water Company - Data Breach",
@@ -995,7 +1125,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#blue-ridge-rural-water-company-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/blue-ridge-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Academy Mortgage Corporation - Data Breach",
@@ -1011,7 +1143,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#academy-mortgage-corporation-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/academy-mortgage-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "American Vision Partners $1.75M Data Breach Settlement",
@@ -1026,7 +1160,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/american-vision-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Packer Station Service Facility - Biometric Privacy (Illinois)",
@@ -1041,7 +1177,11 @@
    "official_url": "https://asurebipasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#packer-station-service-facility-biometric-privacy-illinois"
-   }
+   },
+   "topic": "privacy",
+   "states": [
+    "Illinois"
+   ]
   },
   {
    "name": "Asure Timeclock $644,105 BIPA Class Action Settlement",
@@ -1056,7 +1196,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/asure-bipa-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": [
+    "Illinois"
+   ]
   },
   {
    "name": "Park Dental - Data Breach",
@@ -1072,7 +1216,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#park-dental-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/park-dental-data-security-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "DaVita - Data Breach",
@@ -1088,7 +1234,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#davita-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/dva-cyber-attack-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Vasindas\u2019 Around The Clock Care - Data Breach",
@@ -1104,7 +1252,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#vasindas-around-the-clock-care-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/vasindas-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Fujifilm Diosynth Biotechnologies - Data Breach",
@@ -1120,7 +1270,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#fujifilm-diosynth-biotechnologies-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/flb-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Finastra Technology - Data Breach",
@@ -1136,7 +1288,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#finastra-technology-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/finastra-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Safe Fleet Holdings - Data Breach",
@@ -1152,7 +1306,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#safe-fleet-holdings-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/safe-fleet-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Hospital Espa\u00f1ol Auxilio Mutuo de Puerto Rico",
@@ -1168,7 +1324,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#hospital-espanol-auxilio-mutuo-de-puerto-rico",
     "claimdepot.com": "https://www.claimdepot.com/settlements/hospital-espanola-auxilio-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Compumedics USA - Data Breach",
@@ -1184,7 +1342,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#compumedics-usa-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/compumedics-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Warrior Met Coal - Data Breach",
@@ -1200,7 +1360,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#warrior-met-coal-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/coal-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Medstreaming Data Breach Class Action Settlement",
@@ -1215,7 +1377,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/pcs-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Doctors Imaging Group Data Breach Class Action Settlement",
@@ -1230,7 +1394,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/dig-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Lakeside Pediatric Data Breach Class Action Settlement",
@@ -1245,7 +1411,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/lakeside-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "La Jolla Group - Data Breach",
@@ -1261,7 +1429,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#la-jolla-group-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/ljg-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "GeoTek - Data Breach",
@@ -1277,7 +1447,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#geotek-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/geotek-cyber-incident"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "The Merchant of Tennis - Data Breach",
@@ -1293,7 +1465,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#the-merchant-of-tennis-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/usm-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Hire Velocity - Data Breach",
@@ -1309,7 +1483,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#hire-velocity-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/hire-velocity-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Institute for Human Resources and Services - Data Breach",
@@ -1325,7 +1501,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#institute-for-human-resources-and-services-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/institute-hr-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "MultiCare Health System - Spine Surgery",
@@ -1341,7 +1519,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#multicare-health-system-spine-surgery",
     "claimdepot.com": "https://www.claimdepot.com/settlements/multicare-spine-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Case Foods - Data Breach",
@@ -1357,7 +1537,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#case-foods-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/cfi-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "DotHouse Health - Data Breach",
@@ -1373,7 +1555,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#dothouse-health-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/dothouse-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Pandora Ventures - Job Postings (Washington)",
@@ -1389,7 +1573,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#stv-incorporated-job-postings-washington",
     "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-qtl"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "Washington"
+   ]
   },
   {
    "name": "The Shade Store - Job Postings (Washington)",
@@ -1405,7 +1593,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#the-shade-store-job-postings-washington",
     "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-tssl"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "Washington"
+   ]
   },
   {
    "name": "Sherr Puttmann Akins Lamb - Data Breach",
@@ -1421,7 +1613,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#sherr-puttmann-akins-lamb-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/spal-data-incident"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Guadalupe Credit Union (New Mexico)",
@@ -1436,7 +1630,11 @@
    "official_url": "https://www.salasvgcusettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#guadalupe-credit-union-new-mexico"
-   }
+   },
+   "topic": "other",
+   "states": [
+    "New Mexico"
+   ]
   },
   {
    "name": "ITS Technologies and Logistics - Biometric Privacy (Illinois)",
@@ -1452,7 +1650,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#its-technologies-and-logistics-biometric-privacy-illinois",
     "claimdepot.com": "https://www.claimdepot.com/settlements/its-bipa-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": [
+    "Illinois"
+   ]
   },
   {
    "name": "Swire Coca-Cola $2 Million Labor Class Action Settlement",
@@ -1467,7 +1669,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/settlement-sphi-wa"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "Washington"
+   ]
   },
   {
    "name": "State Farm $8.8M Auto Insurance Class Action Settlement",
@@ -1482,7 +1688,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/washington-umpd-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "Washington"
+   ]
   },
   {
    "name": "Emerald City Pizza - Job Postings (Washington)",
@@ -1498,7 +1708,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#wiz-job-postings-washington",
     "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-337f4"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "Washington"
+   ]
   },
   {
    "name": "Kia - Optima, Sportage Window Regulators",
@@ -1514,7 +1728,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#kia-optima-sportage-window-regulators",
     "claimdepot.com": "https://www.claimdepot.com/settlements/kia-window-regulator-settlement"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Equifax - Inquiry Disputes",
@@ -1530,7 +1746,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#equifax-inquiry-disputes",
     "claimdepot.com": "https://www.claimdepot.com/settlements/equifax-dispute-class-action"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Jefferson County Health Center $2.25M Data Breach Settlement",
@@ -1545,7 +1763,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/jefferson-county-breach-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "SeeEyeWear - Unwanted Texts",
@@ -1561,7 +1781,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#seeeyewear-unwanted-texts",
     "claimdepot.com": "https://www.claimdepot.com/settlements/see-eyewear-tcpa-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "The Money Source Inc. $1.5M TCPA Class Action Settlement",
@@ -1576,7 +1798,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/money-source-tcpa-class-action"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Equifax - Credit Report",
@@ -1592,7 +1816,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#equifax-credit-report",
     "claimdepot.com": "https://www.claimdepot.com/settlements/equifax-fair-credit-reporting-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Coast Dental Services - Unwanted Texts, Calls",
@@ -1608,7 +1834,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#connectamerica-unwanted-calls",
     "claimdepot.com": "https://www.claimdepot.com/settlements/cds-tcpa-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "ConnectAmerica.com $4 Million TCPA Class Action Settlement",
@@ -1623,7 +1851,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/connect-america-tcpa-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Navy Federal Credit Union - Unauthorized Personal Loan Accounts",
@@ -1639,7 +1869,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#navy-federal-credit-union-unauthorized-personal-loan-accounts",
     "claimdepot.com": "https://www.claimdepot.com/settlements/nfcu-loan-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Indegene - Unwanted Faxes",
@@ -1655,7 +1887,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#indegene-unwanted-faxes",
     "claimdepot.com": "https://www.claimdepot.com/settlements/indegene-tcpa-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Toyota Airbag Control Unit",
@@ -1670,7 +1904,9 @@
    "official_url": "",
    "sources": {
     "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/toyota-airbag-control-unit-class-action-settlement/"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Zumba Fitness - Data Privacy",
@@ -1685,7 +1921,9 @@
    "official_url": "https://zumbavppasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#zumba-fitness-data-privacy"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Warner Music Group - Data Breach",
@@ -1701,7 +1939,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#warner-music-group-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/wmg-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Al Piemonte Nissan TCPA Class Action Settlement",
@@ -1716,7 +1956,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/apn-tcpa-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "iPhone - Siri Apple Intelligence",
@@ -1732,7 +1974,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#iphone-siri-apple-intelligence",
     "claimdepot.com": "https://www.claimdepot.com/settlements/smartphone-ai-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "City of Overland, Missouri, Special Deterrent Fee Settlement",
@@ -1747,7 +1991,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/overland-special-deterrent-fee-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "The Container Store (Massachusetts)",
@@ -1763,7 +2009,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#the-container-store-massachusetts",
     "claimdepot.com": "https://www.claimdepot.com/settlements/tcs-settlement"
-   }
+   },
+   "topic": "other",
+   "states": [
+    "Massachusetts"
+   ]
   },
   {
    "name": "Starbucks $775,000 COBRA Notice Class Action Settlement",
@@ -1778,7 +2028,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/cobra-notice-class-action"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Venetian Las Vegas - Data Privacy (California)",
@@ -1794,7 +2046,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#venetian-las-vegas-data-privacy-california",
     "claimdepot.com": "https://www.claimdepot.com/settlements/venetian-las-vegas-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Fertility Centers of Illinois - Data Privacy",
@@ -1810,7 +2066,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#fertility-centers-of-illinois-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/fci-online-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "Illinois"
+   ]
   },
   {
    "name": "Earn Company - Fees",
@@ -1825,7 +2085,9 @@
    "official_url": "https://www.creditexterminatorsclassaction.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#earn-company-fees"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "CIOX Health - Medical Record Fees",
@@ -1841,7 +2103,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#ciox-health-medical-record-fees",
     "claimdepot.com": "https://www.claimdepot.com/settlements/ciox-settlement-maryland"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "BuyAlerts - Unwanted Texts",
@@ -1856,7 +2120,9 @@
    "official_url": "https://buyalertstcpasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#buyalerts-unwanted-texts"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "BuyAlerts $3.6 Million Text Messages Class Action Settlement",
@@ -1871,7 +2137,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/buy-alert-tcpa-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Bigelow Tea (California)",
@@ -1887,7 +2155,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#bigelow-tea",
     "claimdepot.com": "https://www.claimdepot.com/settlements/tea-class-action"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Suffolk County - Red-Light Camera Admin Fees",
@@ -1903,7 +2175,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#suffolk-county-red-light-cameras-new-york",
     "claimdepot.com": "https://www.claimdepot.com/settlements/suffolk-red-light-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Arizona Labor Force - Data Breach",
@@ -1919,7 +2193,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#arizona-labor-force-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/az-labor-force-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Lake Regional Health System Patient Privacy Settlement",
@@ -1934,7 +2210,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/lake-regional-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Cambly $393,000 California Tutor Misclassification Settlement",
@@ -1949,7 +2227,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/cambly-settlement-administration"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Prime Healthcare - Data Privacy",
@@ -1965,7 +2247,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#prime-healthcare-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/ph-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Missouri Delta Medical Center - Data Privacy",
@@ -1981,7 +2265,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#missouri-delta-medical-center-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/mdmc-pixel-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": [
+    "Missouri"
+   ]
   },
   {
    "name": "Washington Nationals - Discount Tickets",
@@ -1996,7 +2284,9 @@
    "official_url": "https://natsdiscountticketsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#washington-nationals-discount-tickets"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Tenet Healthcare - Data Privacy",
@@ -2012,7 +2302,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#tenet-healthcare-corporation-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/tenet-pixel-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "MDLIVE - Data Privacy",
@@ -2027,7 +2319,9 @@
    "official_url": "https://ehisettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#mdlive-data-privacy"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Hyundai Sonata Plug-In Hybrid Vehicles",
@@ -2043,7 +2337,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#hyundai-sonata-plug-in-hybrid-vehicles",
     "claimdepot.com": "https://www.claimdepot.com/settlements/hv-battery-repair-settlement"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "MD Live, Evernorth $3.5M Privacy Class Action Settlement",
@@ -2058,7 +2354,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/ehi-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Rapid Investments, Axiom Bank $4.2M Release Card Settlement",
@@ -2073,7 +2371,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/hall-release-card-settlement"
-   }
+   },
+   "topic": "other",
+   "states": []
   },
   {
    "name": "Dr. Squatch - All Natural Claims",
@@ -2089,7 +2389,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#dr-squatch-all-natural-claims",
     "claimdepot.com": "https://www.claimdepot.com/settlements/personal-care-products-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Mixbook - Discounts",
@@ -2105,7 +2407,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#mixbook-discounts",
     "claimdepot.com": "https://www.claimdepot.com/settlements/mb-pricing-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Theranos Blood Testing Services",
@@ -2120,7 +2426,9 @@
    "official_url": "https://www.theranoslawsuit.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#theranos-blood-testing-services"
-   }
+   },
+   "topic": "insurance",
+   "states": []
   },
   {
    "name": "Boohoo - Advertised Sales",
@@ -2135,7 +2443,11 @@
    "official_url": "http://www.boohoonationwidepricingsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#boohoo-advertised-sales"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Breckenridge - Duloxetine Future Refund Program",
@@ -2151,7 +2463,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#breckenridge-duloxetine",
     "claimdepot.com": "https://www.claimdepot.com/settlements/breckenridge-future-refund-program"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Six Flags - Fees (California)",
@@ -2166,7 +2480,11 @@
    "official_url": "https://www.knottsgreatamericasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#six-flags-fees-california"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Cedar Fair $11.2M Ticket Processing Fee Settlement",
@@ -2181,7 +2499,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/knotts-great-america-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "National Instruments $28M Securities Class Action Settlement",
@@ -2196,7 +2516,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/national-instruments-securities-class-action"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Twitter Acquisition - Securities",
@@ -2212,7 +2534,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#twitter-acquisition-securities",
     "claimdepot.com": "https://www.claimdepot.com/settlements/twitter-acquisition-litigation"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Napco $20 Million Securities Class Action Settlement",
@@ -2227,7 +2551,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/napco-securities-settlement"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Edwards Lifesciences $39M Securities Class Action Settlement",
@@ -2242,7 +2568,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/edwards-lifesciences-securities-litigation"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Webtoon $10 Million Securities Class Action Settlement",
@@ -2257,7 +2585,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/webtoon-securities-settlement"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Anadarko $114.5 Million Securities Class Action Settlement",
@@ -2272,7 +2602,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/anadarko-securities-settlement"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Kornit Digital $19.5M Securities Class Action Settlement",
@@ -2287,7 +2619,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/kornit-securities-litigation"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Hertz Global Holdings $10 Million Securities Settlement",
@@ -2302,7 +2636,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/hertz-securities-settlement"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "SELA Realty Investments (Florida)",
@@ -2318,7 +2654,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#sela-realty-investments-florida",
     "claimdepot.com": "https://www.claimdepot.com/settlements/sela-settlement"
-   }
+   },
+   "topic": "housing",
+   "states": [
+    "Florida"
+   ]
   },
   {
    "name": "Festival Fun Parks - Raging Waters Ticket Prices",
@@ -2334,7 +2674,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#festival-fun-parks-raging-waters-ticket-prices",
     "claimdepot.com": "https://www.claimdepot.com/settlements/raging-waters-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "FastBucks Loans",
@@ -2350,7 +2692,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#fastbucks-loans",
     "claimdepot.com": "https://www.claimdepot.com/settlements/fastbucks-nm-resititution"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Lake Compounce - Ticket Fees",
@@ -2365,7 +2709,9 @@
    "official_url": "https://lakecompounceticketfeesettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#lake-compounce-ticket-fees"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Skin360 - Biometric Privacy (Illinois)",
@@ -2380,7 +2726,11 @@
    "official_url": "https://www.skin360bipasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#skin360-biometric-privacy-illinois"
-   }
+   },
+   "topic": "privacy",
+   "states": [
+    "Illinois"
+   ]
   },
   {
    "name": "WellNow Urgent Care - Wage and Hour",
@@ -2396,7 +2746,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#wellnow-urgent-care-wage-and-hour",
     "claimdepot.com": "https://www.claimdepot.com/settlements/sears-wellnow-settlement"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "New York"
+   ]
   },
   {
    "name": "NYC Department of Correction - Strip Searches",
@@ -2411,7 +2765,9 @@
    "official_url": "https://www.nystripsearchsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#nyc-department-of-correction-strip-searches"
-   }
+   },
+   "topic": "other",
+   "states": []
   },
   {
    "name": "Pulsz - Social Casino Games",
@@ -2426,7 +2782,11 @@
    "official_url": "https://www.ysisettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#pulsz-social-casino-games"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "Alabama"
+   ]
   },
   {
    "name": "Tyson - Beef Prices",
@@ -2442,7 +2802,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#tyson-beef-prices",
     "claimdepot.com": "https://www.claimdepot.com/settlements/beef-direct-purchaser-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Starbucks - Welfare Benefits Plan",
@@ -2457,7 +2819,9 @@
    "official_url": "https://www.cobranoticeclassaction.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#starbucks-welfare-benefits-plan"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Capital One Arena - Concessions",
@@ -2473,7 +2837,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#capital-one-arena-concessions",
     "claimdepot.com": "https://www.claimdepot.com/settlements/venue-fee-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "USC Arcadia Hospital - Data Privacy",
@@ -2489,7 +2855,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#usc-arcadia-hospital-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/us-carcadia-hospital-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Bank of America - Electronic Fund Transfers",
@@ -2504,7 +2872,9 @@
    "official_url": "https://www.eftabankingsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#bank-of-america-electronic-fund-transfers"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Thinkware Systems - Dashcams",
@@ -2520,7 +2890,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#thinkware-systems-dashcams",
     "claimdepot.com": "https://www.claimdepot.com/settlements/tw-camera-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Simplilearn - Data Privacy",
@@ -2536,7 +2908,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#simplilearn-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/simplilearn-privacy-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Service Spot - Parking Reservation Fees (California)",
@@ -2552,7 +2926,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#service-spot-parking-reservation-fees",
     "claimdepot.com": "https://www.claimdepot.com/settlements/service-spot-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "AHS Management Company - Wages",
@@ -2567,7 +2945,9 @@
    "official_url": "https://ardentkronoswagesettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#ahs-management-company-wages"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Kroger - Prescription Drug Prices",
@@ -2583,7 +2963,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#kroger-prescription-drug-prices",
     "claimdepot.com": "https://www.claimdepot.com/settlements/kroger-savings-club-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "GoodRx - Data Privacy",
@@ -2600,7 +2982,9 @@
     "classaction.org": "https://www.classaction.org/settlements#goodrx-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/goodrx-privacy-settlement",
     "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/goodrx-32m-data-privacy-class-action-settlement/"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "HealthPort Technologies - Medical Records",
@@ -2616,7 +3000,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#healthport-technologies-medical-records",
     "claimdepot.com": "https://www.claimdepot.com/settlements/health-port-pit-settlement-pa"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "John Deere - Large Agricultural Equipment Repairs",
@@ -2632,7 +3018,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#john-deere-large-agricultural-equipment-repairs",
     "claimdepot.com": "https://www.claimdepot.com/settlements/deere-repair-settlement"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Avondale Apartment Complex (Colorado)",
@@ -2647,7 +3035,11 @@
    "official_url": "https://www.avondalesettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#avondale-apartment-complex-colorado"
-   }
+   },
+   "topic": "housing",
+   "states": [
+    "Colorado"
+   ]
   },
   {
    "name": "SeatGeek - Ticket Fees (Nevada)",
@@ -2663,7 +3055,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#seatgeek-ticket-fees-nevada",
     "claimdepot.com": "https://www.claimdepot.com/settlements/seatgeek-ticket-fees-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "Nevada"
+   ]
   },
   {
    "name": "Costa Sunglasses (Florida)",
@@ -2679,7 +3075,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#costa-sunglasses-florida",
     "claimdepot.com": "https://www.claimdepot.com/settlements/costa-sunglass-litigation"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "Florida"
+   ]
   },
   {
    "name": "MarBrisa Hotel - Fees (California)",
@@ -2694,7 +3094,11 @@
    "official_url": "https://marbrisasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#marbrisa-hotel-fees"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Dental Intelligence - Data Privacy",
@@ -2710,7 +3114,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#dental-intelligence-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/di-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Adams Toyota - EnviroGuard",
@@ -2726,7 +3132,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#adams-toyota-enviroguard",
     "claimdepot.com": "https://www.claimdepot.com/settlements/adams-auto-settlement"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Vanilla Prepaid Gift Cards (California)",
@@ -2742,7 +3150,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#vanilla-prepaid-gift-cards-california",
     "claimdepot.com": "https://www.claimdepot.com/settlements/ca-gift-card-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Shellpoint Mortgage Servicing - Interest Payments (Louisiana)",
@@ -2757,7 +3169,11 @@
    "official_url": "https://louisianainsuranceinterestsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#shellpoint-mortgage-servicing-interest-payments-louisiana"
-   }
+   },
+   "topic": "housing",
+   "states": [
+    "Louisiana"
+   ]
   },
   {
    "name": "Non-Bank ATM Surcharges",
@@ -2772,7 +3188,9 @@
    "official_url": "https://www.nonbankatmsurchargesettlement.com/home",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#non-bank-atm-surcharges"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Natera Testing",
@@ -2788,7 +3206,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#natera-testing",
     "claimdepot.com": "https://www.claimdepot.com/settlements/genetic-screening-test-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "NYC Taxi and Limousine Commission",
@@ -2803,7 +3223,9 @@
    "official_url": "https://www.tlcsuspensionclaims.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#nyc-taxi-and-limousine-commission"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Schenker - Background Checks",
@@ -2818,7 +3240,9 @@
    "official_url": "https://epoasettlementsinc.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#schenker-background-checks"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Menasha Packaging Company - Wage and Hour",
@@ -2833,7 +3257,11 @@
    "official_url": "https://menashaclassactionsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#menasha-packaging-company-wage-and-hour"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Laboratory Corporation of America - Data Privacy",
@@ -2848,7 +3276,11 @@
    "official_url": "https://www.laboratorycorporationwebsitesettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#laboratory-corporation-of-america-data-privacy"
-   }
+   },
+   "topic": "privacy",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "City of Raleigh - Water, Sewer Fees",
@@ -2863,7 +3295,9 @@
    "official_url": "https://raleighcffsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#city-of-raleigh-water-sewer-fees"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Neutrogena Skin360 $4.7M BIPA Class Action Settlement",
@@ -2878,7 +3312,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/skin360-bipa-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": [
+    "Illinois"
+   ]
   },
   {
    "name": "City of New York Strip Search Class Action Settlement",
@@ -2893,7 +3331,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/ny-strip-search-settlement"
-   }
+   },
+   "topic": "other",
+   "states": []
   },
   {
    "name": "Fontaine Modification Company - Employee Wages",
@@ -2909,7 +3349,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#fontaine-modification-company-employee-wages",
     "claimdepot.com": "https://www.claimdepot.com/settlements/fmc-settlement"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Bank of America - Unused Vacation",
@@ -2924,7 +3366,9 @@
    "official_url": "https://unusedvacationsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#bank-of-america-unused-vacation"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Blank Rome LLP $991,508 Data Breach Class Action Settlement",
@@ -2939,7 +3383,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/br-privacy-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Pulsz and Pulszbingo Virtual Chip Purchases Settlement",
@@ -2954,7 +3400,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/ysi-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Datavant, IOD Medical Records Class Action Settlement",
@@ -2969,7 +3417,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/iod-settlement-pa"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Public Agency Retirement Services - Data Breach",
@@ -2984,7 +3434,9 @@
    "official_url": "https://phaseiidatasettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#public-agency-retirement-services-data-breach"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Ohio Bureau of Motor Vehicles License Plate Fees Settlement",
@@ -2999,7 +3451,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/bmv-license-plate-settlement"
-   }
+   },
+   "topic": "vehicles",
+   "states": [
+    "Ohio"
+   ]
   },
   {
    "name": "Long Beach Community College District - Faculty Wages",
@@ -3014,7 +3470,9 @@
    "official_url": "https://robertslbccdclassaction.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#long-beach-community-college-district-faculty-wages"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Sequoia Equities $3.1 Million Security Deposit Settlement",
@@ -3029,7 +3487,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/ross-v-sequoia"
-   }
+   },
+   "topic": "housing",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Koppers Inc. $625,000 Odor Emissions Class Action Settlement",
@@ -3044,7 +3506,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/koppers-facility"
-   }
+   },
+   "topic": "other",
+   "states": []
   },
   {
    "name": "Pillsbury Winthrop Shaw Pittman $2.34M Data Breach Settlement",
@@ -3059,7 +3523,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/pillsbury-data-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Frontier Communications $14M 401(k) Class Action Settlement",
@@ -3074,7 +3540,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/frontier-erisa-settlement"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Bank of America $2M Denied Debit Card Claims Settlement",
@@ -3089,7 +3557,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/efta-banking-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Florence Bank - Overdraft Fees",
@@ -3104,7 +3574,9 @@
    "official_url": "https://sullivanfeessettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#florence-bank-overdraft-fees"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Caliber Holdings - Retirement Plans",
@@ -3119,7 +3591,9 @@
    "official_url": "https://caliber401ksettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#caliber-holdings-retirement-plans"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Prestige Financial Services - Vehicle Repossession",
@@ -3134,7 +3608,9 @@
    "official_url": "https://www.prestigenoticeclass.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#prestige-financial-services-vehicle-repossession"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Telmate $4.23 Million Data Breach Class Action Settlement",
@@ -3149,7 +3625,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/telmate-data-breach-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Brighthouse Life Insurance Company",
@@ -3164,7 +3642,9 @@
    "official_url": "https://brighthouseinsurancecase.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#brighthouse-life-insurance-company"
-   }
+   },
+   "topic": "insurance",
+   "states": []
   },
   {
    "name": "Kelly Benefits $5M Data Breach Class Action Settlement",
@@ -3179,7 +3659,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/kelly-benefits-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Western Union $586 Million Consumer Fraud Remission",
@@ -3194,7 +3676,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/western-union-remission-phase-3"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "TCI of Alabama $2.6 Million Sex Discrimination Settlement",
@@ -3209,7 +3693,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/eeoc-tci-settlement"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "Alabama"
+   ]
   },
   {
    "name": "Avondale Apartments $2M Habitability Class Action Settlement",
@@ -3224,7 +3712,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/avondale-settlement"
-   }
+   },
+   "topic": "housing",
+   "states": []
   },
   {
    "name": "Atlas Crest, Archer Aviation $15M Class Action Settlement",
@@ -3239,7 +3729,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/atlas-crest-stockholder-litigation"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "High 5 Casino Virtual Coin Purchase Class Action Settlement",
@@ -3254,7 +3746,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/high-5-lawsuit"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "Washington"
+   ]
   },
   {
    "name": "Trane Technologies - Job Postings (Washington)",
@@ -3269,7 +3765,11 @@
    "official_url": "https://epoasettlementtui.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#trane-technologies-job-postings-washington"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "Washington"
+   ]
   },
   {
    "name": "FTAC II, Paysafe Merger $59.5M Class Action Settlement",
@@ -3284,7 +3784,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/ftac-ii-stockholder-settlement"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Planet Labs, dMY IV Merger $11M Class Action Settlement",
@@ -3299,7 +3801,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/dmy-iv-stockholder-settlement"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "ExpressVPN $3.9 Million Auto Renewal Class Action Settlement",
@@ -3314,7 +3818,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/marin-vpn-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "Progressive $8M Delayed PIP Claims Class Action Settlement",
@@ -3329,7 +3837,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/travis-county-pip-settlement"
-   }
+   },
+   "topic": "insurance",
+   "states": [
+    "Texas"
+   ]
   },
   {
    "name": "Unique On The Go $275,000 Wage Class Action Settlement",
@@ -3344,7 +3856,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/perez-settlement"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "RealPage $359.93M Renters Antitrust Class Action Settlement",
@@ -3359,7 +3873,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/realpage-rental-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Progressive Auto Insurance $15.24M Class Action Settlement",
@@ -3374,7 +3890,11 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/co-total-loss-claim"
-   }
+   },
+   "topic": "insurance",
+   "states": [
+    "Colorado"
+   ]
   },
   {
    "name": "SportsEdTV $500,000 Privacy Class Action Settlement",
@@ -3389,7 +3909,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/sports-ed-tv-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "$167.5 Million Nonbank ATM Surcharge Class Action Settlement",
@@ -3404,7 +3926,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/non-bank-atm-surcharge-settlement-2"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Lane County $1.35M Tax Foreclosure Class Action Settlement",
@@ -3419,7 +3943,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/lane-tax-foreclosure-settlement"
-   }
+   },
+   "topic": "housing",
+   "states": []
   },
   {
    "name": "GMFS, NewRez Unpaid Escrow Interest Class Action Settlement",
@@ -3434,7 +3960,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/louisiana-insurance-interest-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "No Proof: Generic Prescription Drug Price-Fixing Settlements",
@@ -3449,7 +3977,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/ag-generic-drugs-claims"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Meridian Security Insurance Class Action Settlement",
@@ -3464,7 +3994,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/meridian-depreciation-settlement"
-   }
+   },
+   "topic": "insurance",
+   "states": []
   },
   {
    "name": "Merrill Lynch - Retirement Accounts",
@@ -3479,7 +4011,9 @@
    "official_url": "https://www.mlretirementaccountlitigation.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#merrill-lynch-retirement-accounts"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "JBS USA Food $200.2M Beef and Pork Worker Wage Settlement",
@@ -3494,7 +4028,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/beef-pork-wages"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Domestic Flight Antitrust",
@@ -3509,7 +4045,9 @@
    "official_url": "https://domesticairclass.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#domestic-flight-antitrust"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Huuuge Casino - Mobile Games",
@@ -3524,7 +4062,9 @@
    "official_url": "https://huuugesettlement.com/home",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#huuuge-casino-mobile-games"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "FirstCash - Military Lending Act",
@@ -3539,7 +4079,9 @@
    "official_url": "https://www.firstcashsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#firstcash-military-lending-act"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Lincoln University - COVID Tuition",
@@ -3554,7 +4096,9 @@
    "official_url": "https://lincolncovidsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#lincoln-university-covid-tuition"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Concord Management $1.85 Million Security Deposit Settlement",
@@ -3569,7 +4113,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/concord-security-settlement"
-   }
+   },
+   "topic": "housing",
+   "states": []
   },
   {
    "name": "California Gambling Control Commission $43.3M Fees Settlement",
@@ -3584,7 +4130,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/gambling-fee-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Drexel University $2.2M COVID Tuition Class Action Settlement",
@@ -3599,7 +4147,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/drexel-covid-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Rolling Stone Lifetime Subscription Class Action Settlement",
@@ -3614,7 +4164,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/rs-subscriber-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Walmart,Telecheck Hidden Fees Class Action Settlement",
@@ -3629,7 +4181,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/check-policy-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Interactive Brokers $5M Securities Class Action Settlement",
@@ -3644,7 +4198,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/interactive-brokers-settlement"
-   }
+   },
+   "topic": "investing",
+   "states": []
   },
   {
    "name": "Walgreens Employee Paycheck $2.5M Class Action Settlement",
@@ -3659,7 +4215,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/walgreen-pharmacy-services-settlement"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Farmers Insurance $10 Million Labor Class Action Settlement",
@@ -3674,7 +4232,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/ruffulo-farmers"
-   }
+   },
+   "topic": "jobs",
+   "states": []
   },
   {
    "name": "Limestone Bank $1.1M Fee Class Action Settlement",
@@ -3689,7 +4249,9 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/cooper-overdraft-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Hearthside Food Solutions - Labor Laws (Illinois)",
@@ -3705,7 +4267,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#hearthside-food-solutions-labor-laws-illinois",
     "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/hearthside-food-solutions-child-labor-class-action-settlement/"
-   }
+   },
+   "topic": "jobs",
+   "states": [
+    "Illinois"
+   ]
   },
   {
    "name": "Charlotte Motor Speedway Landfill",
@@ -3721,7 +4287,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#charlotte-motor-speedway-landfill",
     "claimdepot.com": "https://www.claimdepot.com/settlements/charlotte-motor-speedway-landfill-settlement"
-   }
+   },
+   "topic": "housing",
+   "states": []
   },
   {
    "name": "LaVista Walk Apartment Fire",
@@ -3737,7 +4305,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#lavista-walk-apartment-fire",
     "claimdepot.com": "https://www.claimdepot.com/settlements/lavista-fire-settlement"
-   }
+   },
+   "topic": "housing",
+   "states": []
   },
   {
    "name": "Amazon - Return Policy",
@@ -3753,7 +4323,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#amazon-return-policy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/amazon-return-settlement"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "SPS Technologies Fire",
@@ -3769,7 +4341,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#sps-technologies-fire",
     "claimdepot.com": "https://www.claimdepot.com/settlements/sps-settlement"
-   }
+   },
+   "topic": "other",
+   "states": []
   },
   {
    "name": "Harvard Morgue",
@@ -3785,7 +4359,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#harvard-morgue",
     "claimdepot.com": "https://www.claimdepot.com/settlements/harvard-morgue-settlement"
-   }
+   },
+   "topic": "housing",
+   "states": []
   },
   {
    "name": "Charleston Area Medical Center - Hernia Surgery",
@@ -3801,7 +4377,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#charleston-area-medical-center-hernia-surgery",
     "claimdepot.com": "https://www.claimdepot.com/settlements/camc-bariatric-settlement"
-   }
+   },
+   "topic": "privacy",
+   "states": []
   },
   {
    "name": "Toyota - Airbag Control Units",
@@ -3816,7 +4394,9 @@
    "official_url": "https://www.airbagcontrolunitsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#toyota-airbag-control-units"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Allstate Insurance - Structural Damage (Arizona)",
@@ -3832,7 +4412,11 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#allstate-insurance-structural-damage",
     "claimdepot.com": "https://www.claimdepot.com/settlements/hernandez-depreciation-settlement"
-   }
+   },
+   "topic": "insurance",
+   "states": [
+    "Arizona"
+   ]
   },
   {
    "name": "RealPage - Rent Price-Fixing",
@@ -3847,7 +4431,9 @@
    "official_url": "https://www.realpagerentalsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#realpage-rent-price-fixing"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Progressive Direct - Total Loss Payments (Colorado)",
@@ -3862,7 +4448,11 @@
    "official_url": "https://cototallossclaim.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#progressive-direct-total-loss-payments-colorado"
-   }
+   },
+   "topic": "insurance",
+   "states": [
+    "Colorado"
+   ]
   },
   {
    "name": "NCAA Tennis Prize Money",
@@ -3878,7 +4468,9 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#ncaa-tennis-prize-money",
     "claimdepot.com": "https://www.claimdepot.com/settlements/ncaa-tennis-prize-money-class-action"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Kaiser Permanente - Out-of-Network Claims (California)",
@@ -3893,7 +4485,11 @@
    "official_url": "https://www.outofnetworkhealthclaims.com/home",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#kaiser-permanente-out-of-network-claims"
-   }
+   },
+   "topic": "other",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "NIBCO",
@@ -3908,7 +4504,9 @@
    "official_url": "http://www.pexsystemsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#nibco"
-   }
+   },
+   "topic": "other",
+   "states": []
   },
   {
    "name": "Zonolite Vermiculite Attic Insulation",
@@ -3923,7 +4521,9 @@
    "official_url": "https://www.zonoliteatticinsulation.com/Hm1.aspx",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#zonolite-vermiculite-attic-insulation"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Ford - PowerShift Transmissions",
@@ -3938,7 +4538,9 @@
    "official_url": "http://fordtransmissionsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#ford-powershift-transmissions"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "My Little Steamer",
@@ -3953,7 +4555,9 @@
    "official_url": "https://www.steamerrecallsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#my-little-steamer"
-   }
+   },
+   "topic": "other",
+   "states": []
   },
   {
    "name": "CertainTeed Organic Shingles",
@@ -3968,7 +4572,9 @@
    "official_url": "http://www.certainteedshinglesettlement.com/index.cfm",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#teedsh"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Kia - Engine Failure",
@@ -3983,7 +4589,9 @@
    "official_url": "https://kiaengineclasssettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#kia-engine-failure"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Sanyo Energy - Solar Panels",
@@ -3998,7 +4606,9 @@
    "official_url": "https://www.sanyosolarclaims.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#sanyo-energy-solar-panels"
-   }
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "GM - Fuel Pumps",
@@ -4013,7 +4623,11 @@
    "official_url": "https://www.gmfuelpumplitigation.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#gm-fuel-pumps"
-   }
+   },
+   "topic": "vehicles",
+   "states": [
+    "California"
+   ]
   },
   {
    "name": "St. Stephen\u2019s Cemetery (Kentucky)",
@@ -4028,7 +4642,11 @@
    "official_url": "https://kycemeterysettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#st-stephens-cemetery-kentucky"
-   }
+   },
+   "topic": "other",
+   "states": [
+    "Kentucky"
+   ]
   },
   {
    "name": "Ram Trucks - Anti-Lock Braking System",
@@ -4043,7 +4661,9 @@
    "official_url": "https://fcarambrakesettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#ram-trucks-anti-lock-braking-system"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   },
   {
    "name": "Dodge Grand Caravan - Sliding Doors",
@@ -4058,7 +4678,9 @@
    "official_url": "https://www.dodgeslidingdoorlatchsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#dodge-grand-caravan-sliding-doors"
-   }
+   },
+   "topic": "vehicles",
+   "states": []
   }
  ]
 }

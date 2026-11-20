@@ -3,6 +3,7 @@ from __future__ import annotations
 
 from datetime import date
 
+from .classify import limited_states, topic
 from .model import Merged, Settlement
 from .normalize import fund_size, name_tokens, parse_deadline, parse_payout, parse_proof
 
@@ -73,6 +74,9 @@ def merge(items: list[Settlement], today: date | None = None) -> list[Merged]:
                 sources={s.source: s.url for s, _, _ in g},
             )
         )
+    for m in out:
+        m.topic = topic(m.category, m.name, m.description)
+        m.states = limited_states(m.name, m.description)
     out.sort(key=rank_key)
     return out
 

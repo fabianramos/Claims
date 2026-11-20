@@ -34,6 +34,8 @@ class Merged:
     category: str
     official_url: str
     sources: dict[str, str] = field(default_factory=dict)  # source name -> url
+    topic: str = "other"  # privacy, vehicles, shopping, jobs, investing, insurance, housing, other
+    states: list[str] = field(default_factory=list)  # states it is limited to; empty = no limit found
 
     def to_json(self) -> dict:
         d = asdict(self)
