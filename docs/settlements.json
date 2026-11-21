@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-20 19:06 UTC",
+ "generated": "2026-11-21 17:57 UTC",
  "sources": {
   "classaction.org": 202,
-  "claimdepot.com": 209,
-  "theclassactionlawsuit.com": 4
+  "claimdepot.com": 210,
+  "theclassactionlawsuit.com": 3
  },
  "settlements": [
   {
@@ -1944,6 +1944,25 @@
    "states": []
   },
   {
+   "name": "Google $350 Million Android Cellular Data Settlement",
+   "deadline": "2026-12-05",
+   "payout_text": "Up to $100",
+   "payout_min": 100.0,
+   "payout_max": 100.0,
+   "fund_size": 350000000.0,
+   "proof_required": null,
+   "description": "California residents who used a Google-licensed Android phone with a cellular plan since Aug. 9, 2016, may be eligible to receive up to $100 from a settlement.",
+   "category": "Privacy",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/cellular-data-class-action"
+   },
+   "topic": "privacy",
+   "states": [
+    "California"
+   ]
+  },
+  {
    "name": "Al Piemonte Nissan TCPA Class Action Settlement",
    "deadline": "2026-12-15",
    "payout_text": "$20 cash payment or $100 voucher",
@@ -1956,6 +1975,23 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/apn-tcpa-settlement"
+   },
+   "topic": "shopping",
+   "states": []
+  },
+  {
+   "name": "American Express $12 Million TCPA Class Action Settlement",
+   "deadline": "2027-01-21",
+   "payout_text": "$100 (estimated)",
+   "payout_min": 100.0,
+   "payout_max": 100.0,
+   "fund_size": 12000000.0,
+   "proof_required": null,
+   "description": "Individuals who received calls from American Express about a credit card account that was not theirs may qualify for about $100 from a class action settlement.",
+   "category": "Text Messages",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/amex-telephone-settlement"
    },
    "topic": "shopping",
    "states": []
@@ -3124,23 +3160,6 @@
    "states": []
   },
   {
-   "name": "Schenker - Background Checks",
-   "deadline": "2026-11-20",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "You may be able to claim a piece of this settlement if Schenker obtained a consumer report on you for employment purposes between November 20, 2014 and February 28, 2022.",
-   "category": "",
-   "official_url": "https://epoasettlementsinc.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#schenker-background-checks"
-   },
-   "topic": "jobs",
-   "states": []
-  },
-  {
    "name": "Menasha Packaging Company - Wage and Hour",
    "deadline": "2026-11-21",
    "payout_text": "Varies",
@@ -3806,6 +3825,23 @@
    "states": []
   },
   {
+   "name": "Retina Consultants of America $4.5M class action settlement",
+   "deadline": "2027-01-15",
+   "payout_text": "Pro rata payment plus credit monitoring",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 4500000.0,
+   "proof_required": null,
+   "description": "Individuals who used a Retina Consultants of America website or patient portal between 2019 and 2025 may qualify for a payment from a class action settlement.",
+   "category": "Privacy",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/retina-settlement"
+   },
+   "topic": "privacy",
+   "states": []
+  },
+  {
    "name": "Anadarko $114.5 Million Securities Class Action Settlement",
    "deadline": "2027-01-19",
    "payout_text": "$0.41 per share before deductions",
@@ -4249,44 +4285,6 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/cooper-overdraft-settlement"
    },
    "topic": "shopping",
-   "states": []
-  },
-  {
-   "name": "Hearthside Food Solutions - Labor Laws (Illinois)",
-   "deadline": "2026-11-20",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": true,
-   "description": "This settlement covers those who worked at a Hearthside Food Solutions facility in Illinois while under the age of 16 between March 1, 2020 and December 4, 2024.",
-   "category": "",
-   "official_url": "https://www.hearthsidefssettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#hearthside-food-solutions-labor-laws-illinois",
-    "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/hearthside-food-solutions-child-labor-class-action-settlement/"
-   },
-   "topic": "jobs",
-   "states": [
-    "Illinois"
-   ]
-  },
-  {
-   "name": "Charlotte Motor Speedway Landfill",
-   "deadline": "2026-11-20",
-   "payout_text": "Pro rata payment",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 675000.0,
-   "proof_required": true,
-   "description": "This settlement covers people who owned, rented or leased residential property within one and a half miles of the Charlotte Motor Speedway Landfill's property boundary since August 14, 2021.",
-   "category": "Environmental",
-   "official_url": "https://lsclassaction.com/settlements/charlotte-motor-speedway-landfill/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#charlotte-motor-speedway-landfill",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/charlotte-motor-speedway-landfill-settlement"
-   },
-   "topic": "housing",
    "states": []
   },
   {
