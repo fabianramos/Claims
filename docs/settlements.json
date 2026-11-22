@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-21 17:57 UTC",
+ "generated": "2026-11-22 18:30 UTC",
  "sources": {
   "classaction.org": 202,
-  "claimdepot.com": 210,
+  "claimdepot.com": 217,
   "theclassactionlawsuit.com": 3
  },
  "settlements": [
@@ -1600,6 +1600,46 @@
    ]
   },
   {
+   "name": "Trane Technologies - Job Postings (Washington)",
+   "deadline": "2027-01-05",
+   "payout_text": "$1,173.55 (estimated)",
+   "payout_min": 1173.55,
+   "payout_max": 1173.55,
+   "fund_size": 486000.0,
+   "proof_required": null,
+   "description": "You may be included in this settlement if you applied for a job opening with Trane in Washington between January 1, 2023 and July 26, 2025.",
+   "category": "Labor",
+   "official_url": "https://epoasettlementtui.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#trane-technologies-job-postings-washington",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-tui"
+   },
+   "topic": "jobs",
+   "states": [
+    "Washington"
+   ]
+  },
+  {
+   "name": "Emerald City Pizza - Job Postings (Washington)",
+   "deadline": "2026-11-23",
+   "payout_text": "Est. $606.31 / Pro rata payment / $1,107.44 (estimated) / $606.31 (estimated)",
+   "payout_min": 606.31,
+   "payout_max": 1107.44,
+   "fund_size": 5000000.0,
+   "proof_required": false,
+   "description": "You may be able to claim a piece of this settlement if you applied for a job opening with Emerald City Pizza in Washington between January 1, 2023 and September 2, 2026.",
+   "category": "Labor",
+   "official_url": "https://epoasettlementecp.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#wiz-job-postings-washington",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-337f4"
+   },
+   "topic": "jobs",
+   "states": [
+    "Washington"
+   ]
+  },
+  {
    "name": "Sherr Puttmann Akins Lamb - Data Breach",
    "deadline": "2026-12-28",
    "payout_text": "$50 - $1,000 / Up to $1,000 plus credit monitoring",
@@ -1690,26 +1730,6 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/washington-umpd-settlement"
    },
    "topic": "shopping",
-   "states": [
-    "Washington"
-   ]
-  },
-  {
-   "name": "Emerald City Pizza - Job Postings (Washington)",
-   "deadline": "2026-11-23",
-   "payout_text": "Est. $606.31 / $606.31 (estimated)",
-   "payout_min": 606.31,
-   "payout_max": 606.31,
-   "fund_size": 456000.0,
-   "proof_required": false,
-   "description": "You may be able to claim a piece of this settlement if you applied for a job opening with Emerald City Pizza in Washington between January 1, 2023 and September 2, 2026.",
-   "category": "Labor",
-   "official_url": "https://epoasettlementecp.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#wiz-job-postings-washington",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-337f4"
-   },
-   "topic": "jobs",
    "states": [
     "Washington"
    ]
@@ -3016,16 +3036,17 @@
   {
    "name": "MarBrisa Hotel - Fees (California)",
    "deadline": "2027-01-21",
-   "payout_text": "Varies",
+   "payout_text": "Pro rata payment",
    "payout_min": null,
    "payout_max": null,
-   "fund_size": null,
+   "fund_size": 750000.0,
    "proof_required": false,
    "description": "You may be included in this settlement if you purchased a hotel room at MarBrisa Carlsbad between June 3, 2021 to June 17, 2025 and were charged any fees that were allegedly not displayed in the advertised price at the time of purchase.",
-   "category": "",
+   "category": "Deceptive Pricing",
    "official_url": "https://marbrisasettlement.com/",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#marbrisa-hotel-fees"
+    "classaction.org": "https://www.classaction.org/settlements#marbrisa-hotel-fees",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/mar-brisa-settlement"
    },
    "topic": "shopping",
    "states": [
@@ -3158,25 +3179,6 @@
    },
    "topic": "vehicles",
    "states": []
-  },
-  {
-   "name": "Menasha Packaging Company - Wage and Hour",
-   "deadline": "2026-11-21",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "You may be included in this settlement if you worked for Menasha Packaging Company in California between January 15, 2017 and September 15, 2024.",
-   "category": "",
-   "official_url": "https://menashaclassactionsettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#menasha-packaging-company-wage-and-hour"
-   },
-   "topic": "jobs",
-   "states": [
-    "California"
-   ]
   },
   {
    "name": "Laboratory Corporation of America - Data Privacy",
@@ -3528,6 +3530,23 @@
    "states": []
   },
   {
+   "name": "Fordham University $2.5M COVID Class Action Settlement",
+   "deadline": "2026-12-14",
+   "payout_text": "Varies based on tuition and fees paid",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 2500000.0,
+   "proof_required": null,
+   "description": "Students enrolled in classes at Fordham University in spring 2020 who paid tuition or fees may be eligible to receive a class action settlement payment.",
+   "category": "COVID",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/fordham-refund-lawsuit"
+   },
+   "topic": "vehicles",
+   "states": []
+  },
+  {
    "name": "Webtoon $10 Million Securities Class Action Settlement",
    "deadline": "2026-12-14",
    "payout_text": "Approximately $0.45 per share (before deductions)",
@@ -3714,25 +3733,6 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/high-5-lawsuit"
    },
    "topic": "shopping",
-   "states": [
-    "Washington"
-   ]
-  },
-  {
-   "name": "Trane Technologies - Job Postings (Washington)",
-   "deadline": "2027-01-05",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "You may be included in this settlement if you applied for a job opening with Trane in Washington between January 1, 2023 and July 26, 2025.",
-   "category": "",
-   "official_url": "https://epoasettlementtui.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#trane-technologies-job-postings-washington"
-   },
-   "topic": "jobs",
    "states": [
     "Washington"
    ]
@@ -4067,6 +4067,23 @@
    "states": []
   },
   {
+   "name": "ACCT Holdings $8.75 Million ESOP Class Action Settlement",
+   "deadline": "2027-06-01",
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 8750000.0,
+   "proof_required": null,
+   "description": "Vested participants in the ACCT Holdings ESOP from Dec. 22, 2021, to Dec. 31, 2025, may qualify to receove a share of a class action settlement.",
+   "category": "ERISA",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/acct-esop-settlement"
+   },
+   "topic": "jobs",
+   "states": []
+  },
+  {
    "name": "Domestic Flight Antitrust",
    "deadline": null,
    "payout_text": "Varies",
@@ -4149,6 +4166,23 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/concord-security-settlement"
    },
    "topic": "housing",
+   "states": []
+  },
+  {
+   "name": "Drata Inc. $1.3M Sales Development Rep Class Action Lawsuit",
+   "deadline": null,
+   "payout_text": "Varies by compensation and weeks worked",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 1300000.0,
+   "proof_required": null,
+   "description": "Employees who worked as sales development representatives for Drata Inc. may be eligible to claim a cash payment from a class action settlement.",
+   "category": "Labor",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/drata-settlement"
+   },
+   "topic": "jobs",
    "states": []
   },
   {
