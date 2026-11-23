@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-22 18:30 UTC",
+ "generated": "2026-11-23 22:39 UTC",
  "sources": {
-  "classaction.org": 202,
+  "classaction.org": 190,
   "claimdepot.com": 217,
   "theclassactionlawsuit.com": 3
  },
@@ -526,24 +526,6 @@
    "states": []
   },
   {
-   "name": "Educational Computer Systems - Data Breach",
-   "deadline": "2026-12-21",
-   "payout_text": "$100 - $5,000 / Up to $5,000",
-   "payout_min": 100.0,
-   "payout_max": 5000.0,
-   "fund_size": 6500000.0,
-   "proof_required": false,
-   "description": "You may be included in this settlement if your private information was exposed in the Educational Computer Systems data breach that occurred between October 29, 2023 and February 12, 2024.",
-   "category": "Data Breach",
-   "official_url": "https://www.datasettlementecsi.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#educational-computer-systems-data-breach",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/data-settlement-ecsi"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
    "name": "Viapath Technologies - Data Breach",
    "deadline": "2026-12-21",
    "payout_text": "Up to $5,000",
@@ -579,19 +561,19 @@
    "states": []
   },
   {
-   "name": "Chimienti & Associates - Data Breach",
-   "deadline": "2026-12-28",
-   "payout_text": "$100 - $5,000 / Up to $5,000 plus credit monitoring",
+   "name": "Educational Computer Systems - Data Breach",
+   "deadline": "2026-12-21",
+   "payout_text": "$100 - $5,000 / Up to $5,000",
    "payout_min": 100.0,
    "payout_max": 5000.0,
-   "fund_size": 1250000.0,
+   "fund_size": 6500000.0,
    "proof_required": false,
-   "description": "If your private information was compromised in the March 2024 Chimienti & Associates data breach, you may be able to claim a piece of this settlement.",
+   "description": "You may be included in this settlement if your private information was exposed in the Educational Computer Systems data breach that occurred between October 29, 2023 and February 12, 2024.",
    "category": "Data Breach",
-   "official_url": "https://chimientidatasettlement.com/",
+   "official_url": "https://www.datasettlementecsi.com/",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#chimienti-and-associates-data-breach",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/chimienti-data-settlement"
+    "classaction.org": "https://www.classaction.org/settlements#educational-computer-systems-data-breach",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/data-settlement-ecsi"
    },
    "topic": "privacy",
    "states": []
@@ -610,6 +592,24 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#grayback-forestry-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/grayback-forestry-data-settlement"
+   },
+   "topic": "privacy",
+   "states": []
+  },
+  {
+   "name": "Chimienti & Associates - Data Breach",
+   "deadline": "2026-12-28",
+   "payout_text": "$100 - $5,000 / Up to $5,000 plus credit monitoring",
+   "payout_min": 100.0,
+   "payout_max": 5000.0,
+   "fund_size": 1250000.0,
+   "proof_required": false,
+   "description": "If your private information was compromised in the March 2024 Chimienti & Associates data breach, you may be able to claim a piece of this settlement.",
+   "category": "Data Breach",
+   "official_url": "https://chimientidatasettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#chimienti-and-associates-data-breach",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/chimienti-data-settlement"
    },
    "topic": "privacy",
    "states": []
@@ -839,24 +839,24 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#hyundai-kia-airbag-control-units",
     "claimdepot.com": "https://www.claimdepot.com/settlements/hk-multistate-immobilizer-settlement",
-    "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/hyundai-and-kia-multistate-immobilizer-class-action-settlement/"
+    "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/hyundai-and-kia-multistate-immobilizer-class-action-settlement"
    },
    "topic": "vehicles",
    "states": []
   },
   {
-   "name": "Baptist Health - Data Breach",
+   "name": "Brockton Neighborhood Health Center - Data Breach",
    "deadline": "2026-12-08",
-   "payout_text": "$20 - $4,080 / $50 - $2,500 / Up to $4,480 plus credit monitoring / Up to $2,500 plus credit monitoring",
+   "payout_text": "$50 - $2,500 / $20 - $4,080 / Up to $4,480 plus credit monitoring / Up to $2,500 plus credit monitoring",
    "payout_min": 20.0,
    "payout_max": 4480.0,
    "fund_size": 825000.0,
    "proof_required": false,
-   "description": "You may be included in this settlement if your personal information was compromised in a data breach affecting Baptist Health between April and July 2024.",
+   "description": "You may be included in this settlement if your personal information was impacted by the November 2024 Brockton Neighborhood Health Center data breach.",
    "category": "Data Breach",
-   "official_url": "https://bhsettlement.com/",
+   "official_url": "https://bnhdatasettlement.com/",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#brockton-neighborhood-health-center-data-breach",
+    "classaction.org": "https://www.classaction.org/settlements#baptist-health-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/bnh-data-settlement"
    },
    "topic": "privacy",
@@ -1620,16 +1620,16 @@
    ]
   },
   {
-   "name": "Emerald City Pizza - Job Postings (Washington)",
+   "name": "Lily Transportation - Job Postings (Washington)",
    "deadline": "2026-11-23",
    "payout_text": "Est. $606.31 / Pro rata payment / $1,107.44 (estimated) / $606.31 (estimated)",
    "payout_min": 606.31,
    "payout_max": 1107.44,
    "fund_size": 5000000.0,
    "proof_required": false,
-   "description": "You may be able to claim a piece of this settlement if you applied for a job opening with Emerald City Pizza in Washington between January 1, 2023 and September 2, 2026.",
+   "description": "You may be included in this settlement if you applied for a job opening with Lily Transportation in Washington between January 1, 2023 and December 10, 2025.",
    "category": "Labor",
-   "official_url": "https://epoasettlementecp.com/",
+   "official_url": "https://epoasettlementlt.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#wiz-job-postings-washington",
     "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-337f4"
@@ -1923,7 +1923,7 @@
    "category": "",
    "official_url": "",
    "sources": {
-    "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/toyota-airbag-control-unit-class-action-settlement/"
+    "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/toyota-airbag-control-unit-class-action-settlement"
    },
    "topic": "vehicles",
    "states": []
@@ -2593,24 +2593,22 @@
    "states": []
   },
   {
-   "name": "SELA Realty Investments (Florida)",
-   "deadline": "2026-11-22",
-   "payout_text": "Varies",
+   "name": "FastBucks Loans",
+   "deadline": "2026-11-24",
+   "payout_text": "Pro rata payment",
    "payout_min": null,
    "payout_max": null,
-   "fund_size": null,
+   "fund_size": 964000.0,
    "proof_required": false,
-   "description": "You may be included in this settlement if you were a Florida tenant with SELA Realty Investments between April 4, 2021 and April 4, 2025.",
-   "category": "Housing",
-   "official_url": "https://www.selasettlement.com/",
+   "description": "You may be able to claim a piece of this settlement if you obtained one or more loans through FastBucks between 2007 and 2016.",
+   "category": "Consumer Protection",
+   "official_url": "https://www.fastbucksnmrestitution.com/",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#sela-realty-investments-florida",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/sela-settlement"
+    "classaction.org": "https://www.classaction.org/settlements#fastbucks-loans",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/fastbucks-nm-resititution"
    },
-   "topic": "housing",
-   "states": [
-    "Florida"
-   ]
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Festival Fun Parks - Raging Waters Ticket Prices",
@@ -2626,24 +2624,6 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#festival-fun-parks-raging-waters-ticket-prices",
     "claimdepot.com": "https://www.claimdepot.com/settlements/raging-waters-settlement"
-   },
-   "topic": "shopping",
-   "states": []
-  },
-  {
-   "name": "FastBucks Loans",
-   "deadline": "2026-11-24",
-   "payout_text": "Pro rata payment",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 964000.0,
-   "proof_required": false,
-   "description": "You may be able to claim a piece of this settlement if you obtained one or more loans through FastBucks between 2007 and 2016.",
-   "category": "Consumer Protection",
-   "official_url": "https://www.fastbucksnmrestitution.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#fastbucks-loans",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/fastbucks-nm-resititution"
    },
    "topic": "shopping",
    "states": []
@@ -2666,25 +2646,6 @@
    "states": []
   },
   {
-   "name": "Skin360 - Biometric Privacy (Illinois)",
-   "deadline": "2026-11-25",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": false,
-   "description": "You may be included in this settlement if you performed a Skin360 skin assessment while in Illinois between December 9, 2019 and May 5, 2023.",
-   "category": "",
-   "official_url": "https://www.skin360bipasettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#skin360-biometric-privacy-illinois"
-   },
-   "topic": "privacy",
-   "states": [
-    "Illinois"
-   ]
-  },
-  {
    "name": "WellNow Urgent Care - Wage and Hour",
    "deadline": "2026-11-25",
    "payout_text": "Varies based on pay periods worked",
@@ -2702,6 +2663,25 @@
    "topic": "jobs",
    "states": [
     "New York"
+   ]
+  },
+  {
+   "name": "Skin360 - Biometric Privacy (Illinois)",
+   "deadline": "2026-11-25",
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": false,
+   "description": "You may be included in this settlement if you performed a Skin360 skin assessment while in Illinois between December 9, 2019 and May 5, 2023.",
+   "category": "",
+   "official_url": "https://www.skin360bipasettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#skin360-biometric-privacy-illinois"
+   },
+   "topic": "privacy",
+   "states": [
+    "Illinois"
    ]
   },
   {
@@ -2933,7 +2913,7 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#goodrx-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/goodrx-privacy-settlement",
-    "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/goodrx-32m-data-privacy-class-action-settlement/"
+    "theclassactionlawsuit.com": "https://www.theclassactionlawsuit.com/settlement/goodrx-32m-data-privacy-class-action-settlement"
    },
    "topic": "privacy",
    "states": []
@@ -3253,6 +3233,23 @@
    "states": []
   },
   {
+   "name": "Bank of America - Unused Vacation",
+   "deadline": "2026-11-27",
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": null,
+   "description": "You may be included in this settlement if you worked for Bank of America between September 28, 2013 and September 1, 2026.",
+   "category": "",
+   "official_url": "https://unusedvacationsettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#bank-of-america-unused-vacation"
+   },
+   "topic": "jobs",
+   "states": []
+  },
+  {
    "name": "Fontaine Modification Company - Employee Wages",
    "deadline": "2026-11-27",
    "payout_text": "Pro rata payment",
@@ -3266,23 +3263,6 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#fontaine-modification-company-employee-wages",
     "claimdepot.com": "https://www.claimdepot.com/settlements/fmc-settlement"
-   },
-   "topic": "jobs",
-   "states": []
-  },
-  {
-   "name": "Bank of America - Unused Vacation",
-   "deadline": "2026-11-27",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "You may be included in this settlement if you worked for Bank of America between September 28, 2013 and September 1, 2026.",
-   "category": "",
-   "official_url": "https://unusedvacationsettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#bank-of-america-unused-vacation"
    },
    "topic": "jobs",
    "states": []
@@ -3842,6 +3822,23 @@
    "states": []
   },
   {
+   "name": "RTR Financial Services $2.92M TCPA Class Action Settlement",
+   "deadline": "2027-01-19",
+   "payout_text": "Pro rata payment",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 2920000.0,
+   "proof_required": null,
+   "description": "Individuals who received a prerecorded or artificial voice call from RTR Financial Services may qualify to claim a cash payment from a class action settlement.",
+   "category": "Text Messages",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/rtr-tcpa-settlement"
+   },
+   "topic": "shopping",
+   "states": []
+  },
+  {
    "name": "Anadarko $114.5 Million Securities Class Action Settlement",
    "deadline": "2027-01-19",
    "payout_text": "$0.41 per share before deductions",
@@ -3945,6 +3942,23 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/sports-ed-tv-settlement"
    },
    "topic": "privacy",
+   "states": []
+  },
+  {
+   "name": "Amgen $74 Million Securities Class Action Settlement",
+   "deadline": "2027-02-09",
+   "payout_text": "$0.66 per share (before deductions)",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 74000000.0,
+   "proof_required": null,
+   "description": "Investors who bought Amgen securities between July 29, 2020, and April 27, 2022, may be eligible to claim a cash payment from a class action settlement.",
+   "category": "Securities",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/amgen-securities-settlement"
+   },
+   "topic": "investing",
    "states": []
   },
   {
@@ -4084,23 +4098,6 @@
    "states": []
   },
   {
-   "name": "Domestic Flight Antitrust",
-   "deadline": null,
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "This settlement covers those who bought domestic airline tickets from Delta, Southwest, United, Continental, or US Airways between July 1, 2011 and December 2017 and between July 1, 2011 and June 14, 2018 from American Airlines.",
-   "category": "",
-   "official_url": "https://domesticairclass.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#domestic-flight-antitrust"
-   },
-   "topic": "shopping",
-   "states": []
-  },
-  {
    "name": "Huuuge Casino - Mobile Games",
    "deadline": null,
    "payout_text": "Varies",
@@ -4113,6 +4110,23 @@
    "official_url": "https://huuugesettlement.com/home",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#huuuge-casino-mobile-games"
+   },
+   "topic": "shopping",
+   "states": []
+  },
+  {
+   "name": "Lincoln University - COVID Tuition",
+   "deadline": null,
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": null,
+   "description": "If you were a student enrolled at Lincoln University for the Spring 2020 semester, did not withdraw by March 12, 2020 and were not fully refunded for tuition or fees, you may be included in this settlement.",
+   "category": "",
+   "official_url": "https://lincolncovidsettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#lincoln-university-covid-tuition"
    },
    "topic": "shopping",
    "states": []
@@ -4135,18 +4149,18 @@
    "states": []
   },
   {
-   "name": "Lincoln University - COVID Tuition",
+   "name": "Domestic Flight Antitrust",
    "deadline": null,
    "payout_text": "Varies",
    "payout_min": null,
    "payout_max": null,
    "fund_size": null,
    "proof_required": null,
-   "description": "If you were a student enrolled at Lincoln University for the Spring 2020 semester, did not withdraw by March 12, 2020 and were not fully refunded for tuition or fees, you may be included in this settlement.",
+   "description": "This settlement covers those who bought domestic airline tickets from Delta, Southwest, United, Continental, or US Airways between July 1, 2011 and December 2017 and between July 1, 2011 and June 14, 2018 from American Airlines.",
    "category": "",
-   "official_url": "https://lincolncovidsettlement.com/",
+   "official_url": "https://domesticairclass.com/",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#lincoln-university-covid-tuition"
+    "classaction.org": "https://www.classaction.org/settlements#domestic-flight-antitrust"
    },
    "topic": "shopping",
    "states": []
@@ -4322,24 +4336,6 @@
    "states": []
   },
   {
-   "name": "LaVista Walk Apartment Fire",
-   "deadline": "2026-11-22",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 8450000.0,
-   "proof_required": true,
-   "description": "You may be included in this settlement if you lived at The Reserve at LaVista Walk apartments as of the fire on November 10, 2023.",
-   "category": "Housing",
-   "official_url": "https://lavistafiresettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#lavista-walk-apartment-fire",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/lavista-fire-settlement"
-   },
-   "topic": "housing",
-   "states": []
-  },
-  {
    "name": "Twitter Acquisition - Securities",
    "deadline": "2026-11-24",
    "payout_text": "$1.65 per share (estimated)",
@@ -4447,6 +4443,23 @@
    "states": []
   },
   {
+   "name": "RealPage - Rent Price-Fixing",
+   "deadline": "2027-01-29",
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": true,
+   "description": "This settlement covers those who paid rent on a lease for at least one multifamily property subject to a license for certain RealPage software between October 18, 2018 and November 21, 2025.",
+   "category": "",
+   "official_url": "https://www.realpagerentalsettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#realpage-rent-price-fixing"
+   },
+   "topic": "shopping",
+   "states": []
+  },
+  {
    "name": "Allstate Insurance - Structural Damage (Arizona)",
    "deadline": "2027-01-29",
    "payout_text": "Varies",
@@ -4465,23 +4478,6 @@
    "states": [
     "Arizona"
    ]
-  },
-  {
-   "name": "RealPage - Rent Price-Fixing",
-   "deadline": "2027-01-29",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": true,
-   "description": "This settlement covers those who paid rent on a lease for at least one multifamily property subject to a license for certain RealPage software between October 18, 2018 and November 21, 2025.",
-   "category": "",
-   "official_url": "https://www.realpagerentalsettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#realpage-rent-price-fixing"
-   },
-   "topic": "shopping",
-   "states": []
   },
   {
    "name": "Progressive Direct - Total Loss Payments (Colorado)",
@@ -4608,23 +4604,6 @@
    "states": []
   },
   {
-   "name": "CertainTeed Organic Shingles",
-   "deadline": null,
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": true,
-   "description": "Class members are defined as owners of buildings with CertainTeed Organic Shingles manufactured after July 1, 1987. The settlement provides compensation for the cost of replacing the roof, dependent upon damage.",
-   "category": "",
-   "official_url": "http://www.certainteedshinglesettlement.com/index.cfm",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#teedsh"
-   },
-   "topic": "shopping",
-   "states": []
-  },
-  {
    "name": "Kia - Engine Failure",
    "deadline": null,
    "payout_text": "Varies",
@@ -4728,6 +4707,23 @@
     "classaction.org": "https://www.classaction.org/settlements#dodge-grand-caravan-sliding-doors"
    },
    "topic": "vehicles",
+   "states": []
+  },
+  {
+   "name": "CertainTeed Organic Shingles",
+   "deadline": null,
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": true,
+   "description": "Class members are defined as owners of buildings with CertainTeed Organic Shingles manufactured after July 1, 1987. The settlement provides compensation for the cost of replacing the roof, dependent upon damage.",
+   "category": "",
+   "official_url": "http://www.certainteedshinglesettlement.com/index.cfm",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#teedsh"
+   },
+   "topic": "shopping",
    "states": []
   }
  ]
