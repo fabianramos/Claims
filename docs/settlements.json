@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23 22:39 UTC",
+ "generated": "2026-11-24 21:11 UTC",
  "sources": {
-  "classaction.org": 190,
-  "claimdepot.com": 217,
+  "classaction.org": 194,
+  "claimdepot.com": 213,
   "theclassactionlawsuit.com": 3
  },
  "settlements": [
@@ -96,24 +96,6 @@
    "states": []
   },
   {
-   "name": "Laboratory Services Cooperative - Data Breach",
-   "deadline": "2026-11-24",
-   "payout_text": "Up to $6,000 / Up to $6,000 plus credit monitoring",
-   "payout_min": 6000.0,
-   "payout_max": 6000.0,
-   "fund_size": 6100000.0,
-   "proof_required": false,
-   "description": "You may be included in this settlement if your personal information was exposed in the Laboratory Services Cooperative data breach discovered in October 2024.",
-   "category": "Data Breach",
-   "official_url": "https://www.lscdatasettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#laboratory-services-cooperative-data-breach",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/lsc-data-settlement"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
    "name": "Branford Manor",
    "deadline": null,
    "payout_text": "Up to $6,000",
@@ -128,6 +110,23 @@
     "classaction.org": "https://www.classaction.org/settlements#branford-manor"
    },
    "topic": "housing",
+   "states": []
+  },
+  {
+   "name": "Laboratory Services Cooperative $6.1M Data Breach Settlement",
+   "deadline": "2026-11-24",
+   "payout_text": "Up to $6,000 plus credit monitoring",
+   "payout_min": 6000.0,
+   "payout_max": 6000.0,
+   "fund_size": 6100000.0,
+   "proof_required": null,
+   "description": "LSC employees or individuals who received lab tests through Planned Parenthood before Oct. 27, 2024, may qualify to claim up to $6,000 from a settlement.",
+   "category": "Data Breach",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/lsc-data-settlement"
+   },
+   "topic": "privacy",
    "states": []
   },
   {
@@ -221,6 +220,24 @@
    "states": []
   },
   {
+   "name": "Ben E. Keith Company - Data Breach",
+   "deadline": "2026-11-26",
+   "payout_text": "$35 - $5,000 / Up to $5,400",
+   "payout_min": 35.0,
+   "payout_max": 5400.0,
+   "fund_size": 1200000.0,
+   "proof_required": false,
+   "description": "You may be included in this settlement if your personal information was exposed in the March 2023 Ben E. Keith Company data breach.",
+   "category": "Data Breach",
+   "official_url": "https://www.bekdataincidentsettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#ben-e.-keith-company-data-breach",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/bek-data-incident-settlement"
+   },
+   "topic": "privacy",
+   "states": []
+  },
+  {
    "name": "Electronics for Imaging - Data Breach",
    "deadline": "2026-12-22",
    "payout_text": "$75 - $5,000 / Up to $5,400",
@@ -234,23 +251,6 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#electronics-for-imaging-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/efi-data-settlement"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
-   "name": "Ben E. Keith Co. $1.2M Data Breach Class Action Settlement",
-   "deadline": "2026-11-26",
-   "payout_text": "Up to $5,400",
-   "payout_min": 5400.0,
-   "payout_max": 5400.0,
-   "fund_size": 1200000.0,
-   "proof_required": null,
-   "description": "Individuals who received a notice from Ben E. Keith Co. about the 2023 data breach may be eligible to claim up to $5,400 from a class action settlement.",
-   "category": "Data Breach",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/bek-data-incident-settlement"
    },
    "topic": "privacy",
    "states": []
@@ -526,23 +526,6 @@
    "states": []
   },
   {
-   "name": "Viapath Technologies - Data Breach",
-   "deadline": "2026-12-21",
-   "payout_text": "Up to $5,000",
-   "payout_min": 5000.0,
-   "payout_max": 5000.0,
-   "fund_size": null,
-   "proof_required": false,
-   "description": "This settlement covers those who were affected by the August 2020 Viapath Technologies data breach.",
-   "category": "",
-   "official_url": "https://www.telmatedatabreachsettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#viapath-technologies-data-breach"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
    "name": "Benworth Capital Partners - Data Breach",
    "deadline": "2026-12-21",
    "payout_text": "$50 - $5,000 / Up to $5,000 plus credit monitoring",
@@ -574,6 +557,23 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#educational-computer-systems-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/data-settlement-ecsi"
+   },
+   "topic": "privacy",
+   "states": []
+  },
+  {
+   "name": "Viapath Technologies - Data Breach",
+   "deadline": "2026-12-21",
+   "payout_text": "Up to $5,000",
+   "payout_min": 5000.0,
+   "payout_max": 5000.0,
+   "fund_size": null,
+   "proof_required": false,
+   "description": "This settlement covers those who were affected by the August 2020 Viapath Technologies data breach.",
+   "category": "",
+   "official_url": "https://www.telmatedatabreachsettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#viapath-technologies-data-breach"
    },
    "topic": "privacy",
    "states": []
@@ -1059,23 +1059,6 @@
    "states": []
   },
   {
-   "name": "Mullinax Ford of Central Florida Data Breach Settlement",
-   "deadline": "2026-11-23",
-   "payout_text": "Up to $3,075",
-   "payout_min": 3075.0,
-   "payout_max": 3075.0,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "Individuals who received notice of the Mullinax Ford data breach may be eligible to submit a claim for up to $3,075 from a class action settlement.",
-   "category": "Data Breach",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/mullinax-car-dealership-settlement"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
    "name": "UFCW Local 7 $345,000 Data Breach Class Action Settlement",
    "deadline": "2026-12-14",
    "payout_text": "Up to $3,075 plus credit monitoring",
@@ -1088,6 +1071,24 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/ufcw-7-data-settlement"
+   },
+   "topic": "privacy",
+   "states": []
+  },
+  {
+   "name": "Blank Rome - Data Breach",
+   "deadline": "2026-11-29",
+   "payout_text": "Up to $3,000",
+   "payout_min": 3000.0,
+   "payout_max": 3000.0,
+   "fund_size": 991508.0,
+   "proof_required": false,
+   "description": "You may be covered by this settlement if your personal information was exposed in the May 2026 Blank Rome data breach.",
+   "category": "Data Breach",
+   "official_url": "https://brprivacysettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#blank-rome-data-breach",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/br-privacy-settlement"
    },
    "topic": "privacy",
    "states": []
@@ -1221,6 +1222,23 @@
    "states": []
   },
   {
+   "name": "Nevro Corp. Data Breach Class Action Settlement",
+   "deadline": "2026-12-22",
+   "payout_text": "Up to $2,560 plus credit monitoring",
+   "payout_min": 2560.0,
+   "payout_max": 2560.0,
+   "fund_size": null,
+   "proof_required": null,
+   "description": "Individuals whose private information a Nevro Corp. data breach compromised may be eligible to claim a settlement payment and credit monitoring.",
+   "category": "Data Breach",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/nevro-corp-data-incident-settlement"
+   },
+   "topic": "privacy",
+   "states": []
+  },
+  {
    "name": "DaVita - Data Breach",
    "deadline": "2027-01-19",
    "payout_text": "$50 - $2,550 / Up to $2,550 plus credit monitoring",
@@ -1234,24 +1252,6 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#davita-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/dva-cyber-attack-settlement"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
-   "name": "Vasindas\u2019 Around The Clock Care - Data Breach",
-   "deadline": "2026-11-23",
-   "payout_text": "$70 - $2,500 / Up to $2,500 plus medical monitoring",
-   "payout_min": 70.0,
-   "payout_max": 2500.0,
-   "fund_size": null,
-   "proof_required": false,
-   "description": "You may be included in this settlement if your private information may have been impacted in the January 2024 Vasindas\u2019 Around The Clock Care data breach.",
-   "category": "Data Breach",
-   "official_url": "https://www.vasindasdatasettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#vasindas-around-the-clock-care-data-breach",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/vasindas-data-settlement"
    },
    "topic": "privacy",
    "states": []
@@ -1347,6 +1347,24 @@
    "states": []
   },
   {
+   "name": "Medstreaming - Data Breach",
+   "deadline": "2027-01-19",
+   "payout_text": "$20 - $2,500 / Up to $2,500 plus credit monitoring",
+   "payout_min": 20.0,
+   "payout_max": 2500.0,
+   "fund_size": null,
+   "proof_required": false,
+   "description": "You may be included in this settlement if your private information was exposed in the December 2025 Medstreaming data breach.",
+   "category": "Data Breach",
+   "official_url": "https://www.pcsdatasettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#medstreaming-data-breach",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/pcs-data-settlement"
+   },
+   "topic": "privacy",
+   "states": []
+  },
+  {
    "name": "Warrior Met Coal - Data Breach",
    "deadline": "2027-01-21",
    "payout_text": "$25 - $2,500 / Up to $2,500",
@@ -1365,70 +1383,37 @@
    "states": []
   },
   {
-   "name": "Medstreaming Data Breach Class Action Settlement",
-   "deadline": "2027-01-19",
-   "payout_text": "Up to $2,500 plus credit monitoring",
-   "payout_min": 2500.0,
-   "payout_max": 2500.0,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "Individuals whose private information the Picis Clinical Solutions data breach compromised may be eligible to claim up to $2,500 from a class action settlement.",
-   "category": "Data Breach",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/pcs-data-settlement"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
-   "name": "Doctors Imaging Group Data Breach Class Action Settlement",
+   "name": "Doctors Imaging Group - Data Breach",
    "deadline": "2027-01-26",
-   "payout_text": "Up to $2,500 plus medical data monitoring",
+   "payout_text": "Up to $2,500 / Up to $2,500 plus medical data monitoring",
    "payout_min": 2500.0,
    "payout_max": 2500.0,
    "fund_size": null,
-   "proof_required": null,
-   "description": "Individuals whose private information the Doctors Imaging Group data incident impacted may be eligible to claim up to $2,500 from a class action settlement.",
+   "proof_required": false,
+   "description": "You may be included in this settlement if your personal information was exposed in the November 2024 Doctors Imaging Group data breach.",
    "category": "Data Breach",
-   "official_url": "",
+   "official_url": "https://digdatasettlement.com/",
    "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#doctors-imaging-group-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/dig-data-settlement"
    },
    "topic": "privacy",
    "states": []
   },
   {
-   "name": "Lakeside Pediatric Data Breach Class Action Settlement",
+   "name": "Lakeside Pediatric - Data Breach",
    "deadline": "2027-01-27",
-   "payout_text": "Up to $2,000 plus medical data monitoring / Up to $2,500 plus medical monitoring",
-   "payout_min": 2000.0,
+   "payout_text": "Up to $2,500 / $25 - $2,000 / Up to $2,000 plus medical data monitoring / Up to $2,500 plus medical monitoring",
+   "payout_min": 25.0,
    "payout_max": 2500.0,
    "fund_size": null,
-   "proof_required": null,
-   "description": "Individuals whose private information a Pediatric Otolaryngology Head & Neck Surgery Associates data breach compromised may qualify to claim a settlement payment.",
-   "category": "Data Breach",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/lakeside-settlement"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
-   "name": "La Jolla Group - Data Breach",
-   "deadline": "2026-11-23",
-   "payout_text": "$45 - $2,000 / Up to $2,100 plus credit monitoring",
-   "payout_min": 45.0,
-   "payout_max": 2100.0,
-   "fund_size": null,
    "proof_required": false,
-   "description": "This settlement covers employees whose personal information was exposed in the November 2023 La Jolla Group data breach.",
+   "description": "This settlement covers those affected by the October 2024 Lakeside Pediatric data breach.",
    "category": "Data Breach",
-   "official_url": "https://ljgdatasettlement.com/",
+   "official_url": "https://lakesidesettlement.com/",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#la-jolla-group-data-breach",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/ljg-data-settlement"
+    "classaction.org": "https://www.classaction.org/settlements#pediatric-otolaryngology-head-and-neck-surgery-associates-data-breach",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/lakeside-settlement"
    },
    "topic": "privacy",
    "states": []
@@ -1560,16 +1545,16 @@
    "states": []
   },
   {
-   "name": "Pandora Ventures - Job Postings (Washington)",
+   "name": "Quadrant Technologies - Job Postings (Washington)",
    "deadline": "2026-12-08",
    "payout_text": "$1,592.71 / $1,592.71 (estimated) / $17.93 (estimated)",
    "payout_min": 17.93,
    "payout_max": 1592.71,
    "fund_size": 415000.0,
    "proof_required": false,
-   "description": "You may be included in this settlement if you applied for a job opening with Pandora Ventures or its affiliates in Washington between January 1, 2023 and July 26, 2025.",
+   "description": "You may be included in this settlement if you applied for a job opening with Quadrant Technologies in Washington between January 1, 2023 and July 26, 2025.",
    "category": "Labor",
-   "official_url": "https://epoasettlementpvl.com/",
+   "official_url": "https://epoasettlementqtl.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#stv-incorporated-job-postings-washington",
     "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-qtl"
@@ -1613,26 +1598,6 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#trane-technologies-job-postings-washington",
     "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-tui"
-   },
-   "topic": "jobs",
-   "states": [
-    "Washington"
-   ]
-  },
-  {
-   "name": "Lily Transportation - Job Postings (Washington)",
-   "deadline": "2026-11-23",
-   "payout_text": "Est. $606.31 / Pro rata payment / $1,107.44 (estimated) / $606.31 (estimated)",
-   "payout_min": 606.31,
-   "payout_max": 1107.44,
-   "fund_size": 5000000.0,
-   "proof_required": false,
-   "description": "You may be included in this settlement if you applied for a job opening with Lily Transportation in Washington between January 1, 2023 and December 10, 2025.",
-   "category": "Labor",
-   "official_url": "https://epoasettlementlt.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#wiz-job-postings-washington",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/epoa-settlement-337f4"
    },
    "topic": "jobs",
    "states": [
@@ -1735,22 +1700,24 @@
    ]
   },
   {
-   "name": "Kia - Optima, Sportage Window Regulators",
-   "deadline": "2026-11-23",
-   "payout_text": "$40 or up to $400 per repair",
-   "payout_min": 40.0,
-   "payout_max": 400.0,
+   "name": "Meridian Security Insurance - Structural Loss Claims (Texas)",
+   "deadline": "2027-03-17",
+   "payout_text": "$25 - $500",
+   "payout_min": 25.0,
+   "payout_max": 500.0,
    "fund_size": null,
-   "proof_required": true,
-   "description": "You may be included in this settlement if you bought or leased certain 2016-2017 Kia Optima or 2017 Kia Sportage vehicles.",
-   "category": "Automotive",
-   "official_url": "https://kiawindowregulatorsettlement.com/",
+   "proof_required": false,
+   "description": "You may be covered by this settlement if your Texas home or property was insured by Meridian Security Insurance and you made a claim for structural loss between November 15, 2020 and November 22, 2022.",
+   "category": "Insurance",
+   "official_url": "https://meridiandepreciationsettlement.com/",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#kia-optima-sportage-window-regulators",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/kia-window-regulator-settlement"
+    "classaction.org": "https://www.classaction.org/settlements#meridian-security-insurance-structural-loss-claims-texas",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/meridian-depreciation-settlement"
    },
-   "topic": "vehicles",
-   "states": []
+   "topic": "insurance",
+   "states": [
+    "Texas"
+   ]
   },
   {
    "name": "Equifax - Inquiry Disputes",
@@ -1768,23 +1735,6 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/equifax-dispute-class-action"
    },
    "topic": "shopping",
-   "states": []
-  },
-  {
-   "name": "Jefferson County Health Center $2.25M Data Breach Settlement",
-   "deadline": "2026-11-23",
-   "payout_text": "Up to $300",
-   "payout_min": 300.0,
-   "payout_max": 300.0,
-   "fund_size": 2250000.0,
-   "proof_required": null,
-   "description": "Individuals who received notice from Jefferson County Health Center about a 2022 data breach may be eligible to claim up to $300 from a class action settlement.",
-   "category": "Data Breach",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/jefferson-county-breach-settlement"
-   },
-   "topic": "privacy",
    "states": []
   },
   {
@@ -1964,17 +1914,18 @@
    "states": []
   },
   {
-   "name": "Google $350 Million Android Cellular Data Settlement",
+   "name": "Google - Android OS (California)",
    "deadline": "2026-12-05",
    "payout_text": "Up to $100",
    "payout_min": 100.0,
    "payout_max": 100.0,
    "fund_size": 350000000.0,
    "proof_required": null,
-   "description": "California residents who used a Google-licensed Android phone with a cellular plan since Aug. 9, 2016, may be eligible to receive up to $100 from a settlement.",
+   "description": "This settlement covers California residents who used a mobile phone running a Google-licensed version of the Android operating system with a cellular data plan anytime between August 9, 2016 and the present.",
    "category": "Privacy",
-   "official_url": "",
+   "official_url": "https://www.cellulardataclassaction.com/home",
    "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#google-android-os-california",
     "claimdepot.com": "https://www.claimdepot.com/settlements/cellular-data-class-action"
    },
    "topic": "privacy",
@@ -2254,21 +2205,24 @@
    "states": []
   },
   {
-   "name": "Lake Regional Health System Patient Privacy Settlement",
+   "name": "Lake Regional Health System - Data Privacy",
    "deadline": "2027-01-08",
-   "payout_text": "$25 plus Privacy Shield Pro",
+   "payout_text": "$25 / $25 plus Privacy Shield Pro",
    "payout_min": 25.0,
    "payout_max": 25.0,
    "fund_size": null,
-   "proof_required": null,
-   "description": "Patients at Lake Regional Health System who used the patient portal between 2020 and 2022 may qualify to claim $25 from a class action settlement.",
+   "proof_required": false,
+   "description": "You may be included in this settlement if you were a Lake Regional Health System in Missouri and logged into its patient portal between January 9, 2020 and November 2, 2022.",
    "category": "Privacy",
-   "official_url": "",
+   "official_url": "https://www.lakeregionalsettlement.com/",
    "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#lake-regional-health-system-data-privacy",
     "claimdepot.com": "https://www.claimdepot.com/settlements/lake-regional-settlement"
    },
    "topic": "privacy",
-   "states": []
+   "states": [
+    "Missouri"
+   ]
   },
   {
    "name": "Cambly $393,000 California Tutor Misclassification Settlement",
@@ -2431,6 +2385,23 @@
    "states": []
   },
   {
+   "name": "Upgrade $5.25 Million Privacy Class Action Settlement",
+   "deadline": "2027-01-22",
+   "payout_text": "Up to $15",
+   "payout_min": 15.0,
+   "payout_max": 15.0,
+   "fund_size": 5250000.0,
+   "proof_required": null,
+   "description": "Consumers who created an account and submitted an application using Upgrade between 2024 and 2026 may qualify to claim up to $15 from a settlement.",
+   "category": "Privacy",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/upgrade-website-settlement"
+   },
+   "topic": "privacy",
+   "states": []
+  },
+  {
    "name": "Rapid Investments, Axiom Bank $4.2M Release Card Settlement",
    "deadline": "2027-01-31",
    "payout_text": "$15 plus three times the fees incurred on release card(s)",
@@ -2484,6 +2455,23 @@
    "states": [
     "California"
    ]
+  },
+  {
+   "name": "Winix Air Purifier HEPA Filter Class Action Settlement",
+   "deadline": "2027-02-04",
+   "payout_text": "Up to $12",
+   "payout_min": 12.0,
+   "payout_max": 12.0,
+   "fund_size": null,
+   "proof_required": null,
+   "description": "Individuals who bought a Winix air purifier or filter between 2020 and 2026 may be eligible to claim up to $12 from a class action settlement.",
+   "category": "False Advertising",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/hepa-air-filter-settlement"
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Theranos Blood Testing Services",
@@ -2590,24 +2578,6 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/napco-securities-settlement"
    },
    "topic": "investing",
-   "states": []
-  },
-  {
-   "name": "FastBucks Loans",
-   "deadline": "2026-11-24",
-   "payout_text": "Pro rata payment",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 964000.0,
-   "proof_required": false,
-   "description": "You may be able to claim a piece of this settlement if you obtained one or more loans through FastBucks between 2007 and 2016.",
-   "category": "Consumer Protection",
-   "official_url": "https://www.fastbucksnmrestitution.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#fastbucks-loans",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/fastbucks-nm-resititution"
-   },
-   "topic": "shopping",
    "states": []
   },
   {
@@ -2919,24 +2889,6 @@
    "states": []
   },
   {
-   "name": "HealthPort Technologies - Medical Records",
-   "deadline": "2026-12-31",
-   "payout_text": "67.5% of alleged overpayment",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": false,
-   "description": "You may be included in this settlement if you requested and paid for copies of certain medical records from HealthPort Technologies in connection with a patient's application for life and/or health insurance between December 17, 2009 and July 23, 2026.",
-   "category": "Deceptive Pricing",
-   "official_url": "https://www.healthportpitsettlementpa.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#healthport-technologies-medical-records",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/health-port-pit-settlement-pa"
-   },
-   "topic": "shopping",
-   "states": []
-  },
-  {
    "name": "John Deere - Large Agricultural Equipment Repairs",
    "deadline": "2026-12-31",
    "payout_text": "Varies based on repair hours claimed",
@@ -2952,6 +2904,24 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/deere-repair-settlement"
    },
    "topic": "jobs",
+   "states": []
+  },
+  {
+   "name": "HealthPort Technologies - Medical Records",
+   "deadline": "2026-12-31",
+   "payout_text": "67.5% of alleged overpayment",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": false,
+   "description": "You may be included in this settlement if you requested and paid for copies of certain medical records from HealthPort Technologies in connection with a patient's application for life and/or health insurance between December 17, 2009 and July 23, 2026.",
+   "category": "Deceptive Pricing",
+   "official_url": "https://www.healthportpitsettlementpa.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#healthport-technologies-medical-records",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/health-port-pit-settlement-pa"
+   },
+   "topic": "shopping",
    "states": []
   },
   {
@@ -3011,6 +2981,25 @@
    "topic": "shopping",
    "states": [
     "Florida"
+   ]
+  },
+  {
+   "name": "ExpressVPN - Automatic Renewals (California)",
+   "deadline": "2027-01-12",
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": false,
+   "description": "If you purchased an automatically renewing ExpressVPN subscription and paid at least one autorenewal charge between September 15, 2022 and June 13, 2025 in California, you may be covered by this settlement.",
+   "category": "",
+   "official_url": "https://www.marinvpnsettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#expressvpn-automatic-renewals-california"
+   },
+   "topic": "shopping",
+   "states": [
+    "California"
    ]
   },
   {
@@ -3161,40 +3150,23 @@
    "states": []
   },
   {
-   "name": "Laboratory Corporation of America - Data Privacy",
-   "deadline": "2026-11-23",
-   "payout_text": "N/A",
+   "name": "FastBucks $964,000 New Mexico Restitution Settlement",
+   "deadline": "2026-11-24",
+   "payout_text": "Pro rata payment",
    "payout_min": null,
    "payout_max": null,
-   "fund_size": null,
+   "fund_size": 964000.0,
    "proof_required": null,
-   "description": "You may be included in this settlement if you live in California or Pennsylvania and conducted search queries on Labcorp\u2019s website between May 1, 2021 and April 1, 2026.",
-   "category": "",
-   "official_url": "https://www.laboratorycorporationwebsitesettlement.com/",
+   "description": "Individuals who took out a FastBucks loan in New Mexico between 2007 and 2016 may be eligible to claim a settlement payment.",
+   "category": "Consumer Protection",
+   "official_url": "",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#laboratory-corporation-of-america-data-privacy"
-   },
-   "topic": "privacy",
-   "states": [
-    "California"
-   ]
-  },
-  {
-   "name": "City of Raleigh - Water, Sewer Fees",
-   "deadline": "2026-11-23",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "You may be included in this settlement if you paid water or sewer fees capital facilities fees to the City of Raleigh between January 12, 2016 and June 30, 2018.",
-   "category": "",
-   "official_url": "https://raleighcffsettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#city-of-raleigh-water-sewer-fees"
+    "claimdepot.com": "https://www.claimdepot.com/settlements/fastbucks-nm-resititution"
    },
    "topic": "shopping",
-   "states": []
+   "states": [
+    "New Mexico"
+   ]
   },
   {
    "name": "Neutrogena Skin360 $4.7M BIPA Class Action Settlement",
@@ -3233,23 +3205,6 @@
    "states": []
   },
   {
-   "name": "Bank of America - Unused Vacation",
-   "deadline": "2026-11-27",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "You may be included in this settlement if you worked for Bank of America between September 28, 2013 and September 1, 2026.",
-   "category": "",
-   "official_url": "https://unusedvacationsettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#bank-of-america-unused-vacation"
-   },
-   "topic": "jobs",
-   "states": []
-  },
-  {
    "name": "Fontaine Modification Company - Employee Wages",
    "deadline": "2026-11-27",
    "payout_text": "Pro rata payment",
@@ -3268,20 +3223,20 @@
    "states": []
   },
   {
-   "name": "Blank Rome LLP $991,508 Data Breach Class Action Settlement",
-   "deadline": "2026-11-29",
+   "name": "Bank of America - Unused Vacation",
+   "deadline": "2026-11-27",
    "payout_text": "Varies",
    "payout_min": null,
    "payout_max": null,
-   "fund_size": 991508.0,
+   "fund_size": null,
    "proof_required": null,
-   "description": "Individuals who received notice that the May 2026 Blank Rome LLP breach impacted their data may qualify to claim a cash payment from a class action settlement.",
-   "category": "Data Breach",
-   "official_url": "",
+   "description": "You may be included in this settlement if you worked for Bank of America between September 28, 2013 and September 1, 2026.",
+   "category": "",
+   "official_url": "https://unusedvacationsettlement.com/",
    "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/br-privacy-settlement"
+    "classaction.org": "https://www.classaction.org/settlements#bank-of-america-unused-vacation"
    },
-   "topic": "privacy",
+   "topic": "jobs",
    "states": []
   },
   {
@@ -3454,6 +3409,23 @@
    "official_url": "",
    "sources": {
     "claimdepot.com": "https://www.claimdepot.com/settlements/frontier-erisa-settlement"
+   },
+   "topic": "jobs",
+   "states": []
+  },
+  {
+   "name": "Long Island Community Hospital - Retirement Plan",
+   "deadline": "2026-12-09",
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": null,
+   "description": "You may be included in this settlement if you participated in the Brookhaven Memorial Hospital Medical Center d/b/a Long Island Community Hospital retirement savings plan between January 18, 2018 and September 24, 2026.",
+   "category": "",
+   "official_url": "https://www.licherisasettlement.com/index.html",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#long-island-community-hospital-retirement-plan"
    },
    "topic": "jobs",
    "states": []
@@ -3875,23 +3847,6 @@
    ]
   },
   {
-   "name": "Unique On The Go $275,000 Wage Class Action Settlement",
-   "deadline": "2027-01-20",
-   "payout_text": "Varies based on weeks worked",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 275000.0,
-   "proof_required": null,
-   "description": "Individuals who worked for Hertz at Logan Airport through Unique On The Go between 2022 and 2026 may qualify to claim a payment from a class action settlement.",
-   "category": "Labor",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/perez-settlement"
-   },
-   "topic": "jobs",
-   "states": []
-  },
-  {
    "name": "RealPage $359.93M Renters Antitrust Class Action Settlement",
    "deadline": "2027-01-29",
    "payout_text": "Pro rata share",
@@ -3942,6 +3897,23 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/sports-ed-tv-settlement"
    },
    "topic": "privacy",
+   "states": []
+  },
+  {
+   "name": "Philly Pops Cancelled Concerts Class Action Settlement",
+   "deadline": "2027-02-09",
+   "payout_text": "Pro rata share up to the amount paid for tickets",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": null,
+   "description": "Individuals who paid for tickets to a canceled 2023 Philly Pops concert may be eligible to claim a cash payment from a class action settlement.",
+   "category": "Consumer Protection",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/philly-pops-class-action"
+   },
+   "topic": "shopping",
    "states": []
   },
   {
@@ -4030,23 +4002,6 @@
    "states": []
   },
   {
-   "name": "Meridian Security Insurance Class Action Settlement",
-   "deadline": "2027-03-17",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "Individuals who had a Texas property insured by Meridian and made a structural loss claim between 2020 and 2022 may be eligible for a cash settlement payment.",
-   "category": "Insurance",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/meridian-depreciation-settlement"
-   },
-   "topic": "insurance",
-   "states": []
-  },
-  {
    "name": "Merrill Lynch - Retirement Accounts",
    "deadline": "2027-03-26",
    "payout_text": "Varies",
@@ -4098,6 +4053,40 @@
    "states": []
   },
   {
+   "name": "Domestic Flight Antitrust",
+   "deadline": null,
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": null,
+   "description": "This settlement covers those who bought domestic airline tickets from Delta, Southwest, United, Continental, or US Airways between July 1, 2011 and December 2017 and between July 1, 2011 and June 14, 2018 from American Airlines.",
+   "category": "",
+   "official_url": "https://domesticairclass.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#domestic-flight-antitrust"
+   },
+   "topic": "shopping",
+   "states": []
+  },
+  {
+   "name": "FirstCash - Military Lending Act",
+   "deadline": null,
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": null,
+   "description": "You may be able to claim a piece of this settlement if you took out a pawn loan with FirstCash between October 3, 2016 and six months after July 11, 2025.",
+   "category": "",
+   "official_url": "https://www.firstcashsettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#firstcash-military-lending-act"
+   },
+   "topic": "shopping",
+   "states": []
+  },
+  {
    "name": "Huuuge Casino - Mobile Games",
    "deadline": null,
    "payout_text": "Varies",
@@ -4127,40 +4116,6 @@
    "official_url": "https://lincolncovidsettlement.com/",
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#lincoln-university-covid-tuition"
-   },
-   "topic": "shopping",
-   "states": []
-  },
-  {
-   "name": "FirstCash - Military Lending Act",
-   "deadline": null,
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "You may be able to claim a piece of this settlement if you took out a pawn loan with FirstCash between October 3, 2016 and six months after July 11, 2025.",
-   "category": "",
-   "official_url": "https://www.firstcashsettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#firstcash-military-lending-act"
-   },
-   "topic": "shopping",
-   "states": []
-  },
-  {
-   "name": "Domestic Flight Antitrust",
-   "deadline": null,
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "This settlement covers those who bought domestic airline tickets from Delta, Southwest, United, Continental, or US Airways between July 1, 2011 and December 2017 and between July 1, 2011 and June 14, 2018 from American Airlines.",
-   "category": "",
-   "official_url": "https://domesticairclass.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#domestic-flight-antitrust"
    },
    "topic": "shopping",
    "states": []
@@ -4443,20 +4398,21 @@
    "states": []
   },
   {
-   "name": "RealPage - Rent Price-Fixing",
-   "deadline": "2027-01-29",
-   "payout_text": "Varies",
+   "name": "Unique on the Go, Hertz - Employee Wages",
+   "deadline": "2027-01-20",
+   "payout_text": "Varies based on weeks worked",
    "payout_min": null,
    "payout_max": null,
-   "fund_size": null,
+   "fund_size": 275000.0,
    "proof_required": true,
-   "description": "This settlement covers those who paid rent on a lease for at least one multifamily property subject to a license for certain RealPage software between October 18, 2018 and November 21, 2025.",
-   "category": "",
-   "official_url": "https://www.realpagerentalsettlement.com/",
+   "description": "You may be included in this settlement if you worked for Hertz at its Logan Airport location through Unique on the Go between June 24, 2022 and July 29, 2026.",
+   "category": "Labor",
+   "official_url": "https://perezsettlement.com/",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#realpage-rent-price-fixing"
+    "classaction.org": "https://www.classaction.org/settlements#unique-on-the-go-hertz-employee-wages",
+    "claimdepot.com": "https://www.claimdepot.com/settlements/perez-settlement"
    },
-   "topic": "shopping",
+   "topic": "jobs",
    "states": []
   },
   {
@@ -4478,6 +4434,23 @@
    "states": [
     "Arizona"
    ]
+  },
+  {
+   "name": "RealPage - Rent Price-Fixing",
+   "deadline": "2027-01-29",
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": null,
+   "proof_required": true,
+   "description": "This settlement covers those who paid rent on a lease for at least one multifamily property subject to a license for certain RealPage software between October 18, 2018 and November 21, 2025.",
+   "category": "",
+   "official_url": "https://www.realpagerentalsettlement.com/",
+   "sources": {
+    "classaction.org": "https://www.classaction.org/settlements#realpage-rent-price-fixing"
+   },
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "Progressive Direct - Total Loss Payments (Colorado)",
@@ -4517,23 +4490,21 @@
    "states": []
   },
   {
-   "name": "Kaiser Permanente - Out-of-Network Claims (California)",
+   "name": "CertainTeed Organic Shingles",
    "deadline": null,
    "payout_text": "Varies",
    "payout_min": null,
    "payout_max": null,
    "fund_size": null,
    "proof_required": true,
-   "description": "You may be included in this settlement if you were a Kaiser Permanente member and paid for out-of-network mental health/substance use disorder care because you attempted but couldn\u2019t access in-network care after January 1, 2021.",
+   "description": "Class members are defined as owners of buildings with CertainTeed Organic Shingles manufactured after July 1, 1987. The settlement provides compensation for the cost of replacing the roof, dependent upon damage.",
    "category": "",
-   "official_url": "https://www.outofnetworkhealthclaims.com/home",
+   "official_url": "http://www.certainteedshinglesettlement.com/index.cfm",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#kaiser-permanente-out-of-network-claims"
+    "classaction.org": "https://www.classaction.org/settlements#teedsh"
    },
-   "topic": "other",
-   "states": [
-    "California"
-   ]
+   "topic": "shopping",
+   "states": []
   },
   {
    "name": "NIBCO",
@@ -4710,21 +4681,23 @@
    "states": []
   },
   {
-   "name": "CertainTeed Organic Shingles",
+   "name": "Kaiser Permanente - Out-of-Network Claims (California)",
    "deadline": null,
    "payout_text": "Varies",
    "payout_min": null,
    "payout_max": null,
    "fund_size": null,
    "proof_required": true,
-   "description": "Class members are defined as owners of buildings with CertainTeed Organic Shingles manufactured after July 1, 1987. The settlement provides compensation for the cost of replacing the roof, dependent upon damage.",
+   "description": "You may be included in this settlement if you were a Kaiser Permanente member and paid for out-of-network mental health/substance use disorder care because you attempted but couldn\u2019t access in-network care after January 1, 2021.",
    "category": "",
-   "official_url": "http://www.certainteedshinglesettlement.com/index.cfm",
+   "official_url": "https://www.outofnetworkhealthclaims.com/home",
    "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#teedsh"
+    "classaction.org": "https://www.classaction.org/settlements#kaiser-permanente-out-of-network-claims"
    },
-   "topic": "shopping",
-   "states": []
+   "topic": "other",
+   "states": [
+    "California"
+   ]
   }
  ]
 }
