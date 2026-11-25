@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24 21:11 UTC",
+ "generated": "2026-11-25 20:29 UTC",
  "sources": {
   "classaction.org": 194,
-  "claimdepot.com": 213,
+  "claimdepot.com": 207,
   "theclassactionlawsuit.com": 3
  },
  "settlements": [
@@ -110,23 +110,6 @@
     "classaction.org": "https://www.classaction.org/settlements#branford-manor"
    },
    "topic": "housing",
-   "states": []
-  },
-  {
-   "name": "Laboratory Services Cooperative $6.1M Data Breach Settlement",
-   "deadline": "2026-11-24",
-   "payout_text": "Up to $6,000 plus credit monitoring",
-   "payout_min": 6000.0,
-   "payout_max": 6000.0,
-   "fund_size": 6100000.0,
-   "proof_required": null,
-   "description": "LSC employees or individuals who received lab tests through Planned Parenthood before Oct. 27, 2024, may qualify to claim up to $6,000 from a settlement.",
-   "category": "Data Breach",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/lsc-data-settlement"
-   },
-   "topic": "privacy",
    "states": []
   },
   {
@@ -509,7 +492,7 @@
   },
   {
    "name": "Jefferson-Blount-St. Clair Mental Health - Data Breach",
-   "deadline": "2026-12-21",
+   "deadline": "2026-12-20",
    "payout_text": "$100 - $5,000 / $75 - $4,500 / Up to $5,000 plus credit monitoring / Up to $4,500 and/or credit monitoring",
    "payout_min": 75.0,
    "payout_max": 5000.0,
@@ -1986,23 +1969,6 @@
    "states": []
   },
   {
-   "name": "City of Overland, Missouri, Special Deterrent Fee Settlement",
-   "deadline": "2026-11-24",
-   "payout_text": "$80",
-   "payout_min": 80.0,
-   "payout_max": 80.0,
-   "fund_size": null,
-   "proof_required": null,
-   "description": "Individuals who paid a special deterrent fee to the City of Overland since Aug. 4, 2012, may be eligible to claim $80 from a class action settlement.",
-   "category": "Deceptive Pricing",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/overland-special-deterrent-fee-settlement"
-   },
-   "topic": "shopping",
-   "states": []
-  },
-  {
    "name": "The Container Store (Massachusetts)",
    "deadline": "2026-12-20",
    "payout_text": "$75 per purchase / $75 per qualifying purchase",
@@ -2038,26 +2004,6 @@
    },
    "topic": "jobs",
    "states": []
-  },
-  {
-   "name": "Venetian Las Vegas - Data Privacy (California)",
-   "deadline": "2026-11-24",
-   "payout_text": "$3.60 - $71.39",
-   "payout_min": 3.6,
-   "payout_max": 71.39,
-   "fund_size": 1600000.0,
-   "proof_required": false,
-   "description": "You may be included in this settlement if you are a California resident and accessed the Venetian Las Vegas website between September 18, 2024 and March 16, 2026.",
-   "category": "Privacy",
-   "official_url": "https://venetianlasvegassettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#venetian-las-vegas-data-privacy-california",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/venetian-las-vegas-settlement"
-   },
-   "topic": "privacy",
-   "states": [
-    "California"
-   ]
   },
   {
    "name": "Fertility Centers of Illinois - Data Privacy",
@@ -2578,41 +2524,6 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/napco-securities-settlement"
    },
    "topic": "investing",
-   "states": []
-  },
-  {
-   "name": "Festival Fun Parks - Raging Waters Ticket Prices",
-   "deadline": "2026-11-24",
-   "payout_text": "Pro rata payment",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 500000.0,
-   "proof_required": false,
-   "description": "You may be able to claim a piece of this settlement if you bought admission tickets from www.ragingwaters.com between June 1, 2020 and June 22, 2026.",
-   "category": "Deceptive Pricing",
-   "official_url": "https://www.ragingwaterssettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#festival-fun-parks-raging-waters-ticket-prices",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/raging-waters-settlement"
-   },
-   "topic": "shopping",
-   "states": []
-  },
-  {
-   "name": "Lake Compounce - Ticket Fees",
-   "deadline": "2026-11-24",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": false,
-   "description": "You may be included in this settlement if you bought tickets to Lake Compounce between October 1, 2023 and June 12, 2025 and paid a processing fee.",
-   "category": "",
-   "official_url": "https://lakecompounceticketfeesettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#lake-compounce-ticket-fees"
-   },
-   "topic": "shopping",
    "states": []
   },
   {
@@ -3148,25 +3059,6 @@
    },
    "topic": "vehicles",
    "states": []
-  },
-  {
-   "name": "FastBucks $964,000 New Mexico Restitution Settlement",
-   "deadline": "2026-11-24",
-   "payout_text": "Pro rata payment",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 964000.0,
-   "proof_required": null,
-   "description": "Individuals who took out a FastBucks loan in New Mexico between 2007 and 2016 may be eligible to claim a settlement payment.",
-   "category": "Consumer Protection",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/fastbucks-nm-resititution"
-   },
-   "topic": "shopping",
-   "states": [
-    "New Mexico"
-   ]
   },
   {
    "name": "Neutrogena Skin360 $4.7M BIPA Class Action Settlement",
@@ -4288,24 +4180,6 @@
     "claimdepot.com": "https://www.claimdepot.com/settlements/cooper-overdraft-settlement"
    },
    "topic": "shopping",
-   "states": []
-  },
-  {
-   "name": "Twitter Acquisition - Securities",
-   "deadline": "2026-11-24",
-   "payout_text": "$1.65 per share (estimated)",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 85000000.0,
-   "proof_required": true,
-   "description": "If you sold the publicly traded stock or call options, or purchased the put options, of Twitter, Inc. between May 13, 2022 and October 4, 2022, you may be included in this settlement.",
-   "category": "Securities",
-   "official_url": "https://twitteracquisitionlitigation.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#twitter-acquisition-securities",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/twitter-acquisition-litigation"
-   },
-   "topic": "investing",
    "states": []
   },
   {
