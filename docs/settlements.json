@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-25 20:29 UTC",
+ "generated": "2026-11-26 20:10 UTC",
  "sources": {
   "classaction.org": 194,
-  "claimdepot.com": 207,
+  "claimdepot.com": 205,
   "theclassactionlawsuit.com": 3
  },
  "settlements": [
@@ -1235,24 +1235,6 @@
    "sources": {
     "classaction.org": "https://www.classaction.org/settlements#davita-data-breach",
     "claimdepot.com": "https://www.claimdepot.com/settlements/dva-cyber-attack-settlement"
-   },
-   "topic": "privacy",
-   "states": []
-  },
-  {
-   "name": "Fujifilm Diosynth Biotechnologies - Data Breach",
-   "deadline": "2026-11-25",
-   "payout_text": "$50 - $2,500 / Up to $2,500 plus credit monitoring",
-   "payout_min": 50.0,
-   "payout_max": 2500.0,
-   "fund_size": null,
-   "proof_required": false,
-   "description": "You may be included in this settlement if your private information was accessed in the Fujifilm Diosynth Biotechnologies data breach that took place in the summer of 2025.",
-   "category": "Data Breach",
-   "official_url": "https://flbdatasettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#fujifilm-diosynth-biotechnologies-data-breach",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/flb-data-settlement"
    },
    "topic": "privacy",
    "states": []
@@ -2527,45 +2509,6 @@
    "states": []
   },
   {
-   "name": "WellNow Urgent Care - Wage and Hour",
-   "deadline": "2026-11-25",
-   "payout_text": "Varies based on pay periods worked",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 1640000.0,
-   "proof_required": false,
-   "description": "You may be included in this settlement if you worked for WellNow Urgent Care as an hourly employee in New York, Illinois or Pennsylvania.",
-   "category": "Labor",
-   "official_url": "https://searswellnowsettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#wellnow-urgent-care-wage-and-hour",
-    "claimdepot.com": "https://www.claimdepot.com/settlements/sears-wellnow-settlement"
-   },
-   "topic": "jobs",
-   "states": [
-    "New York"
-   ]
-  },
-  {
-   "name": "Skin360 - Biometric Privacy (Illinois)",
-   "deadline": "2026-11-25",
-   "payout_text": "Varies",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": null,
-   "proof_required": false,
-   "description": "You may be included in this settlement if you performed a Skin360 skin assessment while in Illinois between December 9, 2019 and May 5, 2023.",
-   "category": "",
-   "official_url": "https://www.skin360bipasettlement.com/",
-   "sources": {
-    "classaction.org": "https://www.classaction.org/settlements#skin360-biometric-privacy-illinois"
-   },
-   "topic": "privacy",
-   "states": [
-    "Illinois"
-   ]
-  },
-  {
    "name": "NYC Department of Correction - Strip Searches",
    "deadline": "2026-11-26",
    "payout_text": "Varies",
@@ -3059,25 +3002,6 @@
    },
    "topic": "vehicles",
    "states": []
-  },
-  {
-   "name": "Neutrogena Skin360 $4.7M BIPA Class Action Settlement",
-   "deadline": "2026-11-25",
-   "payout_text": "Pro rata share",
-   "payout_min": null,
-   "payout_max": null,
-   "fund_size": 4700000.0,
-   "proof_required": null,
-   "description": "Individuals who used Skin360 for a skin assessment in Illinois between Dec. 9, 2019, and May 5, 2023, may qualify to claim a cash payment from a settlement.",
-   "category": "BIPA",
-   "official_url": "",
-   "sources": {
-    "claimdepot.com": "https://www.claimdepot.com/settlements/skin360-bipa-settlement"
-   },
-   "topic": "privacy",
-   "states": [
-    "Illinois"
-   ]
   },
   {
    "name": "City of New York Strip Search Class Action Settlement",
@@ -3633,6 +3557,23 @@
    "states": []
   },
   {
+   "name": "Synagro Woonsocket $1.3 Million Noxious Odors Settlement",
+   "deadline": "2027-01-11",
+   "payout_text": "Pro rata payment",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 1300000.0,
+   "proof_required": null,
+   "description": "Individuals who owned, rented or leased property near the Woonsocket facility since 2014 may be eligible to claim a cash payment from a class action settlement.",
+   "category": "Environmental",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/synagro-woonsocket-facility"
+   },
+   "topic": "housing",
+   "states": []
+  },
+  {
    "name": "ExpressVPN $3.9 Million Auto Renewal Class Action Settlement",
    "deadline": "2027-01-12",
    "payout_text": "Cash payment or credit voucher",
@@ -4011,6 +3952,25 @@
    },
    "topic": "shopping",
    "states": []
+  },
+  {
+   "name": "DoorDash $131.5 Million NYC Delivery Worker Settlement",
+   "deadline": null,
+   "payout_text": "Varies",
+   "payout_min": null,
+   "payout_max": null,
+   "fund_size": 131500000.0,
+   "proof_required": null,
+   "description": "Individuals who worked as a DoorDash delivery worker in New York City between April 2022 and June 2026 may qualify to claim a cash payment from a settlement.",
+   "category": "Labor",
+   "official_url": "",
+   "sources": {
+    "claimdepot.com": "https://www.claimdepot.com/settlements/nyc-door-dash-settlement"
+   },
+   "topic": "jobs",
+   "states": [
+    "New York"
+   ]
   },
   {
    "name": "Concord Management $1.85 Million Security Deposit Settlement",
